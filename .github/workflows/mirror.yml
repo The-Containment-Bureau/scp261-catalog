@@ -1,0 +1,54 @@
+# Rebuild this mirror from the live machine, once a day.
+#
+# CADENCE, and why it is not per-vend. A commit for every $1 dispense means a git write on a
+# path we do not control the rate of, and the whole point of a launch is that the rate goes up.
+# A daily batch has a bounded cost, and it costs nothing when nothing was sold: the generator
+# writes no timestamps of its own, so a run with no new items produces no diff and the step
+# below commits nothing. 05:40 UTC sits after the site repo's nightly test run (05:20) and
+# before the 06:00 founder digest, so a broken mirror shows up in the same morning as
+# everything else.
+#
+# Nothing here needs a secret. GITHUB_TOKEN can push to this repository, and the endpoint it
+# reads is public.
+name: mirror
+on:
+  schedule:
+    - cron: "40 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  # Never let two mirror runs race each other onto main. Not cancel-in-progress: a half-done
+  # mirror is worse than a late one.
+  group: mirror
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      # Fails the job if the site is down, if the collection comes back empty, or if any image
+      # URL answers with something that is not an image. All three should stop the mirror
+      # rather than commit a wrong record.
+      - run: node tools/mirror-catalog.mjs --out .
+
+      - name: Commit, but only if the collection actually changed
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "no change since the last run"
+            exit 0
+          fi
+          count=$(node -e "process.stdout.write(String(require('./index.json').count))")
+          git config user.name "scp261-mirror"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "mirror: ${count} items"
+          git push
