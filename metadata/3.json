@@ -1,0 +1,59 @@
+{
+  "name": "Miniature Murmur Turtle #3",
+  "description": "A small turtle approximately 5 cm in length. Its shell appears to be slightly translucent, revealing faint patterns resembling sound waves. The turtle continuously emits a soft murmur.\n\nEFFECT: Induces relaxation and mild happiness to nearby subjects through auditory means.\nANOMALOUS PROPERTIES: The creature emits a soft, continuous murmur that induces a mild calming effect in subjects within a 2-meter radius.\nTASTE: Not applicable.\nPACKAGING: A small, transparent plastic container with a breathable lid. Contains air holes and resembles a typical pet store packaging for fish or small reptiles.\n\nRESEARCHER NOTE: Finally, a pet that doubles as a therapist. Might swap my goldfish for this one.\n\nDispensed by SCP-261 on 2026-06-21 — edition #3 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/3.jpg",
+  "external_url": "https://scp261.org/item/miniature-murmur-turtle",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "creature"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "harmless"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "unpowered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "Japanese"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-biology"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "emotion-effect"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "living-creature"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 300,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 3,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1782054424,
+      "display_type": "date"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "collection": {
+    "name": "SCP-261 Dispensary",
+    "description": "Every item ever dispensed by SCP-261, the anomalous vending machine at Site-19. Each edition is a single physical draw: paid for once, generated once, never repeated. The machine accepts coins; what it returns is not on any menu.",
+    "external_link": "https://scp261.org"
+  },
+  "source": "https://scp261.org/api/nft",
+  "count": 8,
+  "tokens": [
+    {
+      "edition": 1,
+      "itemId": "liquid-languor",
+      "name": "Liquid Languor #1",
+      "rarity": "Common",
+      "category": "drink",
+      "dispensedAt": "2026-06-21T14:55:41.538Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/1.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/1.jpg",
+      "imageBytes": 879514,
+      "imageSha256": "b5ece60dbb188345f4e4e8250ac22ccdbfd73aa1bfb6c9fec82e390b41a8e59f",
+      "itemPage": "https://scp261.org/item/liquid-languor",
+      "tokenUri": "https://scp261.org/api/nft/1"
+    },
+    {
+      "edition": 2,
+      "itemId": "fruity-fizz",
+      "name": "Fruity Fizz #2",
+      "rarity": "Common",
+      "category": "drink",
+      "dispensedAt": "2026-06-21T14:57:33.557Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/2.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/2.jpg",
+      "imageBytes": 860833,
+      "imageSha256": "536afe1b1b4c0980853fa2f9c6d08850501e295a4e631f0ed332d37b8e1d16cd",
+      "itemPage": "https://scp261.org/item/fruity-fizz",
+      "tokenUri": "https://scp261.org/api/nft/2"
+    },
+    {
+      "edition": 3,
+      "itemId": "miniature-murmur-turtle",
+      "name": "Miniature Murmur Turtle #3",
+      "rarity": "Common",
+      "category": "creature",
+      "dispensedAt": "2026-06-21T15:07:04.233Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/3.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/3.jpg",
+      "imageBytes": 898277,
+      "imageSha256": "b2f912b78dc8dfed1bd7adc0da63b4383dd4202ed5db57eb4528e21bb27ec6ab",
+      "itemPage": "https://scp261.org/item/miniature-murmur-turtle",
+      "tokenUri": "https://scp261.org/api/nft/3"
+    },
+    {
+      "edition": 4,
+      "itemId": "minestrone-morsel",
+      "name": "Minestrone Morsel #4",
+      "rarity": "Common",
+      "category": "meal",
+      "dispensedAt": "2026-06-21T15:16:40.621Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/4.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/4.jpg",
+      "imageBytes": 1024472,
+      "imageSha256": "b02c65ab15713edce630b95f4ea77721772347aee80781469e6bf788edb2e59d",
+      "itemPage": "https://scp261.org/item/minestrone-morsel",
+      "tokenUri": "https://scp261.org/api/nft/4"
+    },
+    {
+      "edition": 5,
+      "itemId": "rico-coffee-crunch",
+      "name": "Rico Coffee Crunch #5",
+      "rarity": "Rare",
+      "category": "snack",
+      "dispensedAt": "2026-06-21T16:03:19.433Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/5.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/5.jpg",
+      "imageBytes": 876539,
+      "imageSha256": "ff662726844d7e1d50b55f2e3403f420806612f3f713d5ded8331f13880c4887",
+      "itemPage": "https://scp261.org/item/rico-coffee-crunch",
+      "tokenUri": "https://scp261.org/api/nft/5"
+    },
+    {
+      "edition": 6,
+      "itemId": "shimmering-drachma",
+      "name": "Shimmering Drachma #6",
+      "rarity": "Uncommon",
+      "category": "currency",
+      "dispensedAt": "2026-06-21T17:04:21.896Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/6.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/6.jpg",
+      "imageBytes": 913694,
+      "imageSha256": "850dd9e6d1641c41f43cbfdecdf4e8fe971948cfa62db713f1b586f0675bdd07",
+      "itemPage": "https://scp261.org/item/shimmering-drachma",
+      "tokenUri": "https://scp261.org/api/nft/6"
+    },
+    {
+      "edition": 7,
+      "itemId": "catcoin-bundle",
+      "name": "Catcoin Bundle #7",
+      "rarity": "Common",
+      "category": "currency",
+      "dispensedAt": "2026-08-10T09:09:27.988Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/7.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/7.jpg",
+      "imageBytes": 1148386,
+      "imageSha256": "30d59a2b95397557008a941ea4882b7f649e18c606f8e9c6ff22f62386a39342",
+      "itemPage": "https://scp261.org/item/catcoin-bundle",
+      "tokenUri": "https://scp261.org/api/nft/7"
+    },
+    {
+      "edition": 8,
+      "itemId": "pulpy-exotic-fizz",
+      "name": "Pulpy Exotic Fizz #8",
+      "rarity": "Uncommon",
+      "category": "drink",
+      "dispensedAt": "2026-08-10T10:47:56.369Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/8.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/8.jpg",
+      "imageBytes": 1074947,
+      "imageSha256": "634188515a4909caffc6f36674624d69a51d11f82909795df0e863f63d213d6e",
+      "itemPage": "https://scp261.org/item/pulpy-exotic-fizz",
+      "tokenUri": "https://scp261.org/api/nft/8"
+    }
+  ]
+}
