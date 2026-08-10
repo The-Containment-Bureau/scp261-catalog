@@ -1,0 +1,59 @@
+{
+  "name": "Pulpy Exotic Fizz #8",
+  "description": "A standard-sized can containing a carbonated beverage with shifting colors and flavors that mimic the fruit closest to the consumer. Consumed liquid grants the nutrition of a balanced meal.\n\nEFFECT: Provides nutrition as if consuming a full meal.\nANOMALOUS PROPERTIES: Contents change color to match the nearest fruit.\nTASTE: An intense, shifting fruit flavor that mimics the nearest fruit.\nPACKAGING: A brightly colored can with tropical-themed graphics and large lettering advertising 'Pulpy Exotic Fizz.'\n\nRESEARCHER NOTE: Great for those who can't decide between meal prep and a soda run.\n\nDispensed by SCP-261 on 2026-08-10 — edition #8 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/8.jpg",
+  "external_url": "https://scp261.org/item/pulpy-exotic-fizz",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Category",
+      "value": "drink"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "harmless"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "unpowered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "English"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-flavor"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-nutrition"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "color-change"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 233,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 8,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1786358876,
+      "display_type": "date"
+    }
+  ]
+}

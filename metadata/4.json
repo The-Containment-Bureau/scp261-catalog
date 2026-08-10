@@ -1,0 +1,55 @@
+{
+  "name": "Minestrone Morsel #4",
+  "description": "A can of minestrone soup that heats itself upon opening. The soup provides optimal nutrition for three hours, ensuring hydration and energy without further consumption.\n\nEFFECT: Self-heating soup that supplies the consumer with hydration and energy for extended periods.\nANOMALOUS PROPERTIES: Emits heat upon opening and provides optimal hydration and energy for 3 hours.\nTASTE: Rich minestrone with a notable earthy undertone, providing a warm, comforting sensation.\nPACKAGING: A small, vibrantly colored can with a peel-off lid labeled in Italian.\n\nDispensed by SCP-261 on 2026-06-21 — edition #4 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/4.jpg",
+  "external_url": "https://scp261.org/item/minestrone-morsel",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "meal"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "harmless"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "Italian"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-nutrition"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "self-heating"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 500,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 4,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1782055000,
+      "display_type": "date"
+    }
+  ]
+}

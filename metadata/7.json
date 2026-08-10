@@ -1,0 +1,55 @@
+{
+  "name": "Catcoin Bundle #7",
+  "description": "A set of ten bills, cartoonishly designed with cat imagery, usable in dimensions inhabited solely by cats. Exhibits a mild glow when touched by cat fur.\n\nEFFECT: Recognized as valid currency in cat-only dimensions.\nANOMALOUS PROPERTIES: Upon contact with feline fur, emits a faint luminescence. Non-luminescent properties remain under all other conditions.\nTASTE: N/A\nPACKAGING: A stack of ten paper bills, each featuring the face of a cartoon cat in mid-pounce. Lacks any recognizable monetary symbols or denominations, aside from the words 'Catcoin Currency' printed in bold.\n\nRESEARCHER NOTE: Finally, a currency tailored to the cat economy. Still no purrchase evidence in our reality though.\n\nDispensed by SCP-261 on 2026-08-10 — edition #7 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/7.jpg",
+  "external_url": "https://scp261.org/item/catcoin-bundle",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "currency"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "harmless"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "English"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-chemistry"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "currency"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 123,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 7,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1786352967,
+      "display_type": "date"
+    }
+  ]
+}

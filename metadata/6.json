@@ -1,0 +1,59 @@
+{
+  "name": "Shimmering Drachma #6",
+  "description": "A single drachma-like coin exhibiting an unnatural luminescence, contained in a velvet pouch. The coin displays various historical periods upon exposure to air, providing an unusual chemical composition. Handling it promotes feelings of prosperity, with no adverse effects.\n\nEFFECT: Upon holding, induces a temporary sense of prosperity and well-being.\nANOMALOUS PROPERTIES: The coin emits a constant shimmer visible in complete darkness. Upon exposure to air, the surface temporarily transforms, displaying different historical epochs from ancient Greece.\nTASTE: Metallic, with a hint of olive oil if licked.\nPACKAGING: A small velvet pouch containing a single coin with intricate, shimmering engravings.\n\nDispensed by SCP-261 on 2026-06-21 — edition #6 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/6.jpg",
+  "external_url": "https://scp261.org/item/shimmering-drachma",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Category",
+      "value": "currency"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "harmless"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "Greek"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-chemistry"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "currency"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "luminescence"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 500,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 6,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1782061461,
+      "display_type": "date"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Liquid Languor #1",
+  "description": "A beverage contained in a dark blue bottle, reminiscent of premium bottled water. The label features a stylized droplet logo with soothing visual elements.\n\nEFFECT: Induces a state of relaxation lasting approximately 30 minutes, with no lasting effects.\nANOMALOUS PROPERTIES: Temporarily induces a mild relaxation effect in the consumer.\nTASTE: Subtly sweet with notes of chamomile and lavender.\nPACKAGING: A sleek, dark blue bottle with a metallic sheen and minimalist font; label reads 'Liquid Languor'.\n\nRESEARCHER NOTE: Could be useful for de-escalating tense meetings, though it might also turn them into nap time.\n\nDispensed by SCP-261 on 2026-06-21 — edition #1 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/1.jpg",
+  "external_url": "https://scp261.org/item/liquid-languor",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "drink"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "harmless"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "English"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-flavor"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "branded-parody"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 500,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 1,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1782053741,
+      "display_type": "date"
+    }
+  ]
+}

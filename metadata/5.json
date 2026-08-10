@@ -1,0 +1,59 @@
+{
+  "name": "Rico Coffee Crunch #5",
+  "description": "The package, upon opening, releases a potent aroma of freshly ground coffee. Consumption leads to heightened alertness and improved cognitive functions, often described by subjects as 'seeing everything in high definition.' Effects subside gradually, leaving no lasting impact. Advised infrequent consumption due to potential for mental overstimulation.\n\nEFFECT: Induces extreme mental clarity and physical alertness.\nANOMALOUS PROPERTIES: Infuses consumers with enhanced focus and energy for approximately four hours.\nTASTE: Intense, overwhelming coffee flavor with notes of bittersweet chocolate.\nPACKAGING: A vacuum-sealed foil packet with vibrant illustrations of clowns juggling coffee beans on the front, containing multiple small, irregularly shaped, dark brown crunch pieces.\n\nRESEARCHER NOTE: Best served not before bedtime. Just ask D-8432.\n\nDispensed by SCP-261 on 2026-06-21 — edition #5 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/5.jpg",
+  "external_url": "https://scp261.org/item/rico-coffee-crunch",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Category",
+      "value": "snack"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "mild"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "Spanish"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-flavor"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-nutrition"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "stimulant"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 10000,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 5,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1782057799,
+      "display_type": "date"
+    }
+  ]
+}

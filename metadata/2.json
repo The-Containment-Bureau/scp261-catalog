@@ -1,0 +1,55 @@
+{
+  "name": "Fruity Fizz #2",
+  "description": "A carbonated drink that continuously alters its flavor with each sip, offering an unpredictable taste journey through both familiar and imaginary fruits.\n\nEFFECT: Provides a constantly changing fruit flavor experience, with no adverse effects noted.\nANOMALOUS PROPERTIES: Each sip of the beverage shifts the drinker's perception of the flavor to a different fruit, cycling through a variety of impossible, non-existent fruits known only in hypothetical or fictional contexts.\nTASTE: Varies with each sip; starts with a common fruit flavor before transitioning to more bizarre, unidentified flavors.\nPACKAGING: A vibrant can with a colorful fruit-themed design, reminiscent of popular soda brands. The label prominently features an amalgamation of various fruits with sparkling effects.\n\nRESEARCHER NOTE: Perfect for those who think variety is the spice of life, or for confusing fruit aficionados.\n\nDispensed by SCP-261 on 2026-06-21 — edition #2 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/2.jpg",
+  "external_url": "https://scp261.org/item/fruity-fizz",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "drink"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "harmless"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "Japanese"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-flavor"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "branded-parody"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 500,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 2,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1782053853,
+      "display_type": "date"
+    }
+  ]
+}
