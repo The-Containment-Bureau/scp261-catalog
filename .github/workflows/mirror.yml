@@ -18,6 +18,8 @@ on:
 
 permissions:
   contents: write
+  # Only for the keepalive step below.
+  actions: write
 
 concurrency:
   # Never let two mirror runs race each other onto main. Not cancel-in-progress: a half-done
@@ -40,6 +42,29 @@ jobs:
       # rather than commit a wrong record.
       - run: node tools/mirror-catalog.mjs --out .
 
+      # PROOF OF EXISTENCE. index.json carries the SHA-256 of every image, so its hash pins the
+      # whole collection. Each version of it is timestamped once with OpenTimestamps, anchored
+      # in Bitcoin, at no cost: proofs/<sha256 of index.json>.ots. A fresh proof is "pending"
+      # until a Bitcoin block confirms it (a few hours); later runs upgrade it to a complete,
+      # self-contained proof. No token, no wallet, nothing to own or trade - just evidence that
+      # this exact collection existed at that time.
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Timestamp the collection
+        run: |
+          pip install --quiet opentimestamps-client==0.7.2
+          mkdir -p proofs
+          h=$(sha256sum index.json | cut -d' ' -f1)
+          if [ ! -f "proofs/$h.ots" ]; then
+            cp index.json "proofs/$h"
+            ots stamp "proofs/$h"
+            rm "proofs/$h"
+          fi
+          # Pending proofs become complete once Bitcoin has confirmed them. A proof that is
+          # still pending makes `ots upgrade` exit non-zero, which is expected, not a failure.
+          for p in proofs/*.ots; do ots upgrade "$p" || true; done
+
       - name: Commit, but only if the collection actually changed
         run: |
           if [ -z "$(git status --porcelain)" ]; then
@@ -52,3 +77,13 @@ jobs:
           git add -A
           git commit -m "mirror: ${count} items"
           git push
+
+      # KEEPALIVE. GitHub disables scheduled workflows in a public repository after 60 days
+      # without a commit, and a quiet machine means no commits: this mirror stopped on
+      # 10.10.2026 that way and nobody noticed. Re-enabling the workflow through the API resets
+      # that clock, so every daily run keeps the schedule alive.
+      - name: Keep the schedule alive
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/mirror.yml/enable"
