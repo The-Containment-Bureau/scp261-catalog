@@ -1,0 +1,55 @@
+{
+  "name": "Cogito Snacks #10",
+  "description": "A small paper bag containing hexagonal, lightly sweetened crackers. Each cracker presents a distinct walnut-like flavor enhanced by an unfamiliar undertone. Consumption results in transiently increased intelligence and problem-solving ability.\n\nEFFECT: Eater experiences brief enhancement of cognitive functions, including memory recall and problem-solving skills.\nANOMALOUS PROPERTIES: Consumption induces temporary heightened cognitive abilities, improving clarity in thought and recollection for approximately thirty minutes.\nTASTE: Mildly sweet with subtle hints of walnut and a curious undertone resembling fresh paper.\nPACKAGING: A simple paper bag with a faded olive green color scheme, featuring abstract patterns reminiscent of mid-century modern design.\n\nRESEARCHER NOTE: Ironically, they make solving 1960s crossword puzzles much easier.\n\nDispensed by SCP-261 on 2026-11-04 — edition #10 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/10.jpg",
+  "external_url": "https://scp261.org/item/cogito-snacks",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "snack"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "harmless"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "English"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-flavor"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "knowledge"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 9,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 10,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1793812958,
+      "display_type": "date"
+    }
+  ]
+}

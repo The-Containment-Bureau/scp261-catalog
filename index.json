@@ -5,7 +5,7 @@
     "external_link": "https://scp261.org"
   },
   "source": "https://scp261.org/api/nft",
-  "count": 9,
+  "count": 10,
   "tokens": [
     {
       "edition": 1,
@@ -16,8 +16,8 @@
       "dispensedAt": "2026-06-21T14:55:41.538Z",
       "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/1.json",
       "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/1.jpg",
-      "imageBytes": 879514,
-      "imageSha256": "b5ece60dbb188345f4e4e8250ac22ccdbfd73aa1bfb6c9fec82e390b41a8e59f",
+      "imageBytes": 47128,
+      "imageSha256": "36291514123464166cf53d02cb32cbfa091ff020695c5978841db100bac67c33",
       "itemPage": "https://scp261.org/item/liquid-languor",
       "tokenUri": "https://scp261.org/api/nft/1"
     },
@@ -30,8 +30,8 @@
       "dispensedAt": "2026-06-21T14:57:33.557Z",
       "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/2.json",
       "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/2.jpg",
-      "imageBytes": 860833,
-      "imageSha256": "536afe1b1b4c0980853fa2f9c6d08850501e295a4e631f0ed332d37b8e1d16cd",
+      "imageBytes": 76175,
+      "imageSha256": "cb509af0b55ddeb905db22d261f16a881dc6ff20800ea558050139aa777b2cf0",
       "itemPage": "https://scp261.org/item/fruity-fizz",
       "tokenUri": "https://scp261.org/api/nft/2"
     },
@@ -44,8 +44,8 @@
       "dispensedAt": "2026-06-21T15:07:04.233Z",
       "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/3.json",
       "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/3.jpg",
-      "imageBytes": 898277,
-      "imageSha256": "b2f912b78dc8dfed1bd7adc0da63b4383dd4202ed5db57eb4528e21bb27ec6ab",
+      "imageBytes": 71299,
+      "imageSha256": "4a66b3bc3a2d0277285a2bf8ae022e6b3ea28413264211047ddb86ad1363d4c6",
       "itemPage": "https://scp261.org/item/miniature-murmur-turtle",
       "tokenUri": "https://scp261.org/api/nft/3"
     },
@@ -58,8 +58,8 @@
       "dispensedAt": "2026-06-21T15:16:40.621Z",
       "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/4.json",
       "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/4.jpg",
-      "imageBytes": 1024472,
-      "imageSha256": "b02c65ab15713edce630b95f4ea77721772347aee80781469e6bf788edb2e59d",
+      "imageBytes": 78569,
+      "imageSha256": "250a4e6c39d048268cdc779301557238180e665952720c795b24652c6a5c37f3",
       "itemPage": "https://scp261.org/item/minestrone-morsel",
       "tokenUri": "https://scp261.org/api/nft/4"
     },
@@ -72,8 +72,8 @@
       "dispensedAt": "2026-06-21T16:03:19.433Z",
       "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/5.json",
       "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/5.jpg",
-      "imageBytes": 876539,
-      "imageSha256": "ff662726844d7e1d50b55f2e3403f420806612f3f713d5ded8331f13880c4887",
+      "imageBytes": 121198,
+      "imageSha256": "d1c67ba5b8f04ff302fe98f768bce4d4a14387f1049d150a70b227e91ff473f6",
       "itemPage": "https://scp261.org/item/rico-coffee-crunch",
       "tokenUri": "https://scp261.org/api/nft/5"
     },
@@ -86,8 +86,8 @@
       "dispensedAt": "2026-06-21T17:04:21.896Z",
       "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/6.json",
       "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/6.jpg",
-      "imageBytes": 913694,
-      "imageSha256": "850dd9e6d1641c41f43cbfdecdf4e8fe971948cfa62db713f1b586f0675bdd07",
+      "imageBytes": 84070,
+      "imageSha256": "85f21b804808c219d1a1cbae72acb4ae5832dbfc42d533be9f0a395de2786afe",
       "itemPage": "https://scp261.org/item/shimmering-drachma",
       "tokenUri": "https://scp261.org/api/nft/6"
     },
@@ -100,8 +100,8 @@
       "dispensedAt": "2026-08-10T09:09:27.988Z",
       "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/7.json",
       "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/7.jpg",
-      "imageBytes": 1148386,
-      "imageSha256": "30d59a2b95397557008a941ea4882b7f649e18c606f8e9c6ff22f62386a39342",
+      "imageBytes": 125356,
+      "imageSha256": "49071f522328f6b2f5d21f20cdc786d4927c9d83c431a60aadf7862658e65c45",
       "itemPage": "https://scp261.org/item/catcoin-bundle",
       "tokenUri": "https://scp261.org/api/nft/7"
     },
@@ -114,8 +114,8 @@
       "dispensedAt": "2026-08-10T10:47:56.369Z",
       "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/8.json",
       "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/8.jpg",
-      "imageBytes": 1074947,
-      "imageSha256": "634188515a4909caffc6f36674624d69a51d11f82909795df0e863f63d213d6e",
+      "imageBytes": 77428,
+      "imageSha256": "e6468d0742e1bf845268d0aa2ea7692d2ef0015e1772d839753c81223c6946c2",
       "itemPage": "https://scp261.org/item/pulpy-exotic-fizz",
       "tokenUri": "https://scp261.org/api/nft/8"
     },
@@ -132,6 +132,20 @@
       "imageSha256": "1fe2383f33d39f89f43aaf68db39ef6d3434d38a4e027d2a5b86403ea4e5a3a4",
       "itemPage": "https://scp261.org/item/thermal-lollipop",
       "tokenUri": "https://scp261.org/api/nft/9"
+    },
+    {
+      "edition": 10,
+      "itemId": "cogito-snacks",
+      "name": "Cogito Snacks #10",
+      "rarity": "Common",
+      "category": "snack",
+      "dispensedAt": "2026-11-04T17:22:38.946Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/10.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/10.jpg",
+      "imageBytes": 104352,
+      "imageSha256": "daea34aeb135aeab6b047281a6665f3b5263c8d3b06a1b98b4a76a0d4aec4202",
+      "itemPage": "https://scp261.org/item/cogito-snacks",
+      "tokenUri": "https://scp261.org/api/nft/10"
     }
   ]
 }
