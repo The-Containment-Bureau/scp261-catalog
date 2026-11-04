@@ -1,6 +1,6 @@
 # SCP-261 Catalog
 
-Every item ever dispensed by SCP-261, the anomalous vending machine at Site-19. Each edition is a single physical draw: paid for once, generated once, never repeated. The machine accepts coins; what it returns is not on any menu.
+Every item ever vended by SCP-261, a black vending machine recovered in Yokohama. Put in a dollar and it vends an item that has never existed before: paid for once, generated once, never repeated. Usually a snack. Occasionally something worse.
 
 This repository is the **public mirror** of every item ever dispensed by the machine at
 [scp261.org](https://scp261.org). The site is the source of truth; this is the copy
@@ -51,6 +51,27 @@ to what the machine served:
 sha256sum images/1.jpg
 curl -s https://scp261.org/api/items/<item-id>/image | sha256sum
 ```
+
+## Proof of existence
+
+Every version of `index.json` (the whole collection, with a SHA-256 for every image) is
+timestamped in Bitcoin with [OpenTimestamps](https://opentimestamps.org). The proof sits beside
+it as `proofs/<sha256 of index.json>.ots` and shows that this exact collection existed no later
+than the Bitcoin block it is anchored in: no item can be added, removed or swapped afterwards
+and backdated. A fresh proof is pending for a few hours until Bitcoin confirms it; the daily run
+then upgrades it to a complete, self-contained proof.
+
+It is evidence, not a token: nothing here is minted, owned or traded.
+
+To check a proof yourself:
+
+```bash
+pip install opentimestamps-client
+sha256sum index.json                         # the proof is named after this hash
+ots verify -f index.json proofs/<sha256>.ots
+```
+
+Or drop `index.json` and its `.ots` file onto [opentimestamps.org](https://opentimestamps.org).
 
 ## How this file is produced
 
