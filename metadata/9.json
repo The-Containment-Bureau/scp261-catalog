@@ -1,0 +1,55 @@
+{
+  "name": "Obsidian Twist #9",
+  "description": "A black and orange lollipop that periodically shifts in temperature from freezing to burning while being consumed. The temperature changes can cause mild disorientation in the subject. Flavor profile includes smokiness with a hint of burned sugar.\n\nEFFECT: Induces oral temperature fluctuation and mild disorientation for approximately 15 minutes.\nANOMALOUS PROPERTIES: Item temperature fluctuates from extreme cold to searing heat, accompanied by an unsettling smoky flavor.\nTASTE: The lollipop has a complex, smoky essence that hints at burnt caramel and wildfire smoke.\nPACKAGING: The lollipop is a swirling black and dark orange sphere with a glossy surface, encased in a clear wrapping. A pattern of stylized flames wraps around the stick, suggesting an intense heat.\n\nRESEARCHER NOTE: Reactions varied between subjects on whether they found it pleasantly smoky or just disturbing. None opted for a second cause.\n\nDispensed by SCP-261 on 2026-11-04 — edition #9 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/9.jpg",
+  "external_url": "https://scp261.org/item/thermal-lollipop",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Category",
+      "value": "candy"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "mild"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "English"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-flavor"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "thermal-anomaly"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 666,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 9,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1793808622,
+      "display_type": "date"
+    }
+  ]
+}
