@@ -64,6 +64,8 @@ jobs:
           # Pending proofs become complete once Bitcoin has confirmed them. A proof that is
           # still pending makes `ots upgrade` exit non-zero, which is expected, not a failure.
           for p in proofs/*.ots; do ots upgrade "$p" || true; done
+          # An upgrade keeps the old proof as <name>.bak; the upgraded one supersedes it.
+          rm -f proofs/*.bak
 
       - name: Commit, but only if the collection actually changed
         run: |
