@@ -179,7 +179,7 @@ that survives it.
 | path | what it is |
 | --- | --- |
 | \`metadata/<edition>.json\` | [ERC-721 metadata](https://eips.ethereum.org/EIPS/eip-721#specification) for one item |
-| \`images/<edition>.jpg\` | the exact image bytes the machine dispensed |
+| \`images/<edition>.jpg\` | the item's studio picture, as the site shows it |
 | \`index.json\` | the whole collection in one file, with a SHA-256 for every image |
 | \`collection.json\` | contract-level metadata (OpenSea \`contractURI\` convention) |
 
@@ -213,12 +213,18 @@ and treat that as a temporary reprieve, not a fix.
 ## Verifying a copy
 
 Every image in \`index.json\` carries its SHA-256. To check that a file here is byte-identical
-to what the machine served:
+to what the site shows:
 
 \`\`\`bash
 sha256sum images/1.jpg
-curl -s ${collection.external_link}/api/items/<item-id>/image | sha256sum
+curl -s "${collection.external_link}/api/items/<item-id>/display?v=2" | sha256sum
 \`\`\`
+
+The images are the items' studio pictures: every object on the same backdrop, at the same
+size, without lettering. Items 1-8 were vended before the studio existed and were
+re-photographed in it on 4 November 2026. The pictures they were dispensed with are kept at
+\`${collection.external_link}/api/items/<item-id>/image\` and in this repository's history,
+where the Bitcoin proofs of earlier versions still verify them.
 
 ## Proof of existence
 
@@ -263,7 +269,7 @@ weight this repository leaves the comfortable range somewhere around
 **${Math.round(1073741824 / (bytes / index.length)).toLocaleString('en-US')} items**. The fix is upstream, at
 generation time: smaller images make both the site and this mirror lighter. It is deliberately
 *not* done here — the whole point of this copy is that its bytes are identical to what the
-machine served, verifiable by the SHA-256 above. Re-encoding here would break that.
+site serves, verifiable by the SHA-256 above. Re-encoding here would break that.
 
 ## The record
 
