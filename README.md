@@ -60,18 +60,18 @@ with nothing newly dispensed produces no diff.
 
 ## Size, and when it becomes a problem
 
-8 item(s), 7.3 MB of images — an average of
-**937 KB per item**, committed to git history that
+9 item(s), 7.4 MB of images — an average of
+**839 KB per item**, committed to git history that
 cannot be pruned without a rewrite. At that weight:
 
 | items | repository size |
 | --- | --- |
-| 1,000 | ~0.89 GB |
-| 10,000 | ~8.9 GB |
+| 1,000 | ~0.80 GB |
+| 10,000 | ~8.0 GB |
 
 GitHub recommends staying under 1 GB and starts warning above 5 GB, so at the current image
 weight this repository leaves the comfortable range somewhere around
-**1,119 items**. The fix is upstream, at
+**1,250 items**. The fix is upstream, at
 generation time: smaller images make both the site and this mirror lighter. It is deliberately
 *not* done here — the whole point of this copy is that its bytes are identical to what the
 machine served, verifiable by the SHA-256 above. Re-encoding here would break that.
@@ -88,3 +88,4 @@ machine served, verifiable by the SHA-256 above. Re-encoding here would break th
 | 6 | [Shimmering Drachma #6](https://scp261.org/item/shimmering-drachma) | Uncommon | currency | 2026-06-21 | [json](metadata/6.json) | `850dd9e6d1641c41` |
 | 7 | [Catcoin Bundle #7](https://scp261.org/item/catcoin-bundle) | Common | currency | 2026-08-10 | [json](metadata/7.json) | `30d59a2b95397557` |
 | 8 | [Pulpy Exotic Fizz #8](https://scp261.org/item/pulpy-exotic-fizz) | Uncommon | drink | 2026-08-10 | [json](metadata/8.json) | `634188515a4909ca` |
+| 9 | [Obsidian Twist #9](https://scp261.org/item/thermal-lollipop) | Uncommon | candy | 2026-11-04 | [json](metadata/9.json) | `1fe2383f33d39f89` |

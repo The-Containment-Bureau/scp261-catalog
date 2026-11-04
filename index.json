@@ -5,7 +5,7 @@
     "external_link": "https://scp261.org"
   },
   "source": "https://scp261.org/api/nft",
-  "count": 8,
+  "count": 9,
   "tokens": [
     {
       "edition": 1,
@@ -118,6 +118,20 @@
       "imageSha256": "634188515a4909caffc6f36674624d69a51d11f82909795df0e863f63d213d6e",
       "itemPage": "https://scp261.org/item/pulpy-exotic-fizz",
       "tokenUri": "https://scp261.org/api/nft/8"
+    },
+    {
+      "edition": 9,
+      "itemId": "thermal-lollipop",
+      "name": "Obsidian Twist #9",
+      "rarity": "Uncommon",
+      "category": "candy",
+      "dispensedAt": "2026-11-04T16:10:22.041Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/9.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/9.jpg",
+      "imageBytes": 57285,
+      "imageSha256": "1fe2383f33d39f89f43aaf68db39ef6d3434d38a4e027d2a5b86403ea4e5a3a4",
+      "itemPage": "https://scp261.org/item/thermal-lollipop",
+      "tokenUri": "https://scp261.org/api/nft/9"
     }
   ]
 }
