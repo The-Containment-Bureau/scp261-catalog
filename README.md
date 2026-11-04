@@ -11,7 +11,7 @@ that survives it.
 | path | what it is |
 | --- | --- |
 | `metadata/<edition>.json` | [ERC-721 metadata](https://eips.ethereum.org/EIPS/eip-721#specification) for one item |
-| `images/<edition>.jpg` | the exact image bytes the machine dispensed |
+| `images/<edition>.jpg` | the item's studio picture, as the site shows it |
 | `index.json` | the whole collection in one file, with a SHA-256 for every image |
 | `collection.json` | contract-level metadata (OpenSea `contractURI` convention) |
 
@@ -45,12 +45,18 @@ and treat that as a temporary reprieve, not a fix.
 ## Verifying a copy
 
 Every image in `index.json` carries its SHA-256. To check that a file here is byte-identical
-to what the machine served:
+to what the site shows:
 
 ```bash
 sha256sum images/1.jpg
-curl -s https://scp261.org/api/items/<item-id>/image | sha256sum
+curl -s "https://scp261.org/api/items/<item-id>/display?v=2" | sha256sum
 ```
+
+The images are the items' studio pictures: every object on the same backdrop, at the same
+size, without lettering. Items 1-8 were vended before the studio existed and were
+re-photographed in it on 4 November 2026. The pictures they were dispensed with are kept at
+`https://scp261.org/api/items/<item-id>/image` and in this repository's history,
+where the Bitcoin proofs of earlier versions still verify them.
 
 ## Proof of existence
 
@@ -81,32 +87,33 @@ with nothing newly dispensed produces no diff.
 
 ## Size, and when it becomes a problem
 
-9 item(s), 7.4 MB of images — an average of
-**839 KB per item**, committed to git history that
+10 item(s), 0.8 MB of images — an average of
+**82 KB per item**, committed to git history that
 cannot be pruned without a rewrite. At that weight:
 
 | items | repository size |
 | --- | --- |
-| 1,000 | ~0.80 GB |
-| 10,000 | ~8.0 GB |
+| 1,000 | ~0.08 GB |
+| 10,000 | ~0.8 GB |
 
 GitHub recommends staying under 1 GB and starts warning above 5 GB, so at the current image
 weight this repository leaves the comfortable range somewhere around
-**1,250 items**. The fix is upstream, at
+**12,739 items**. The fix is upstream, at
 generation time: smaller images make both the site and this mirror lighter. It is deliberately
 *not* done here — the whole point of this copy is that its bytes are identical to what the
-machine served, verifiable by the SHA-256 above. Re-encoding here would break that.
+site serves, verifiable by the SHA-256 above. Re-encoding here would break that.
 
 ## The record
 
 | # | item | rarity | category | dispensed | metadata | image sha256 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Liquid Languor #1](https://scp261.org/item/liquid-languor) | Common | drink | 2026-06-21 | [json](metadata/1.json) | `b5ece60dbb188345` |
-| 2 | [Fruity Fizz #2](https://scp261.org/item/fruity-fizz) | Common | drink | 2026-06-21 | [json](metadata/2.json) | `536afe1b1b4c0980` |
-| 3 | [Miniature Murmur Turtle #3](https://scp261.org/item/miniature-murmur-turtle) | Common | creature | 2026-06-21 | [json](metadata/3.json) | `b2f912b78dc8dfed` |
-| 4 | [Minestrone Morsel #4](https://scp261.org/item/minestrone-morsel) | Common | meal | 2026-06-21 | [json](metadata/4.json) | `b02c65ab15713edc` |
-| 5 | [Rico Coffee Crunch #5](https://scp261.org/item/rico-coffee-crunch) | Rare | snack | 2026-06-21 | [json](metadata/5.json) | `ff662726844d7e1d` |
-| 6 | [Shimmering Drachma #6](https://scp261.org/item/shimmering-drachma) | Uncommon | currency | 2026-06-21 | [json](metadata/6.json) | `850dd9e6d1641c41` |
-| 7 | [Catcoin Bundle #7](https://scp261.org/item/catcoin-bundle) | Common | currency | 2026-08-10 | [json](metadata/7.json) | `30d59a2b95397557` |
-| 8 | [Pulpy Exotic Fizz #8](https://scp261.org/item/pulpy-exotic-fizz) | Uncommon | drink | 2026-08-10 | [json](metadata/8.json) | `634188515a4909ca` |
+| 1 | [Liquid Languor #1](https://scp261.org/item/liquid-languor) | Common | drink | 2026-06-21 | [json](metadata/1.json) | `3629151412346416` |
+| 2 | [Fruity Fizz #2](https://scp261.org/item/fruity-fizz) | Common | drink | 2026-06-21 | [json](metadata/2.json) | `cb509af0b55ddeb9` |
+| 3 | [Miniature Murmur Turtle #3](https://scp261.org/item/miniature-murmur-turtle) | Common | creature | 2026-06-21 | [json](metadata/3.json) | `4a66b3bc3a2d0277` |
+| 4 | [Minestrone Morsel #4](https://scp261.org/item/minestrone-morsel) | Common | meal | 2026-06-21 | [json](metadata/4.json) | `250a4e6c39d04826` |
+| 5 | [Rico Coffee Crunch #5](https://scp261.org/item/rico-coffee-crunch) | Rare | snack | 2026-06-21 | [json](metadata/5.json) | `d1c67ba5b8f04ff3` |
+| 6 | [Shimmering Drachma #6](https://scp261.org/item/shimmering-drachma) | Uncommon | currency | 2026-06-21 | [json](metadata/6.json) | `85f21b804808c219` |
+| 7 | [Catcoin Bundle #7](https://scp261.org/item/catcoin-bundle) | Common | currency | 2026-08-10 | [json](metadata/7.json) | `49071f522328f6b2` |
+| 8 | [Pulpy Exotic Fizz #8](https://scp261.org/item/pulpy-exotic-fizz) | Uncommon | drink | 2026-08-10 | [json](metadata/8.json) | `e6468d0742e1bf84` |
 | 9 | [Obsidian Twist #9](https://scp261.org/item/thermal-lollipop) | Uncommon | candy | 2026-11-04 | [json](metadata/9.json) | `1fe2383f33d39f89` |
+| 10 | [Cogito Snacks #10](https://scp261.org/item/cogito-snacks) | Common | snack | 2026-11-04 | [json](metadata/10.json) | `daea34aeb135aeab` |
