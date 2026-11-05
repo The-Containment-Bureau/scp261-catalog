@@ -87,8 +87,8 @@ with nothing newly dispensed produces no diff.
 
 ## Size, and when it becomes a problem
 
-10 item(s), 0.8 MB of images — an average of
-**82 KB per item**, committed to git history that
+11 item(s), 0.9 MB of images — an average of
+**81 KB per item**, committed to git history that
 cannot be pruned without a rewrite. At that weight:
 
 | items | repository size |
@@ -98,7 +98,7 @@ cannot be pruned without a rewrite. At that weight:
 
 GitHub recommends staying under 1 GB and starts warning above 5 GB, so at the current image
 weight this repository leaves the comfortable range somewhere around
-**12,739 items**. The fix is upstream, at
+**12,909 items**. The fix is upstream, at
 generation time: smaller images make both the site and this mirror lighter. It is deliberately
 *not* done here — the whole point of this copy is that its bytes are identical to what the
 site serves, verifiable by the SHA-256 above. Re-encoding here would break that.
@@ -117,3 +117,4 @@ site serves, verifiable by the SHA-256 above. Re-encoding here would break that.
 | 8 | [Pulpy Exotic Fizz #8](https://scp261.org/item/pulpy-exotic-fizz) | Uncommon | drink | 2026-08-10 | [json](metadata/8.json) | `e6468d0742e1bf84` |
 | 9 | [Obsidian Twist #9](https://scp261.org/item/thermal-lollipop) | Uncommon | candy | 2026-11-04 | [json](metadata/9.json) | `1fe2383f33d39f89` |
 | 10 | [Cogito Snacks #10](https://scp261.org/item/cogito-snacks) | Common | snack | 2026-11-04 | [json](metadata/10.json) | `daea34aeb135aeab` |
+| 11 | [Ceramic Miracle #11](https://scp261.org/item/ceramic-miracle) | Common | drink | 2026-11-05 | [json](metadata/11.json) | `f19727ddeb29852a` |

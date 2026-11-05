@@ -5,7 +5,7 @@
     "external_link": "https://scp261.org"
   },
   "source": "https://scp261.org/api/nft",
-  "count": 10,
+  "count": 11,
   "tokens": [
     {
       "edition": 1,
@@ -146,6 +146,20 @@
       "imageSha256": "daea34aeb135aeab6b047281a6665f3b5263c8d3b06a1b98b4a76a0d4aec4202",
       "itemPage": "https://scp261.org/item/cogito-snacks",
       "tokenUri": "https://scp261.org/api/nft/10"
+    },
+    {
+      "edition": 11,
+      "itemId": "ceramic-miracle",
+      "name": "Ceramic Miracle #11",
+      "rarity": "Common",
+      "category": "drink",
+      "dispensedAt": "2026-11-05T12:24:13.679Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/11.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/11.jpg",
+      "imageBytes": 72126,
+      "imageSha256": "f19727ddeb29852ae2a25dfa9b1a2cecdccaf3471f1878e56b4f9da6a887d493",
+      "itemPage": "https://scp261.org/item/ceramic-miracle",
+      "tokenUri": "https://scp261.org/api/nft/11"
     }
   ]
 }

@@ -1,0 +1,59 @@
+{
+  "name": "Ceramic Miracle #11",
+  "description": "A ceramic flask containing a liquid that, when consumed, temporarily enhances the drinker's sensory perceptions. The flask is ornately decorated, with no discernible text on its surface. Origin appears to be Italian, though the time period is indeterminate.\n\nEFFECT: Subjects experience enhanced sensory awareness, including taste, smell, and touch, lasting approximately 30 minutes after ingestion.\nANOMALOUS PROPERTIES: Upon consumption, induces a temporary state of heightened sensory perception, allowing the subject to perceive minute details in their environment previously unnoticed.\nTASTE: The liquid provides a complex combination of umami and sweetness, reminiscent of aged balsamic vinegar.\nPACKAGING: A smooth, round ceramic flask with intricate floral motifs in muted earth tones and a glossy finish. The neck is slender with a tightly sealed cork displaying a faint iridescence.\n\nRESEARCHER NOTE: Possibly helpful for detectives or sommelier training, but annoyingly introspective for regular folks.\n\nDispensed by SCP-261 on 2026-11-05 — edition #11 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/11.jpg",
+  "external_url": "https://scp261.org/item/ceramic-miracle",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "drink"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "mild"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "None"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-flavor"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "miraculous"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "sensory"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 261,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 11,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1793881453,
+      "display_type": "date"
+    }
+  ]
+}
