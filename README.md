@@ -87,8 +87,8 @@ with nothing newly dispensed produces no diff.
 
 ## Size, and when it becomes a problem
 
-11 item(s), 0.9 MB of images — an average of
-**81 KB per item**, committed to git history that
+13 item(s), 1.1 MB of images — an average of
+**85 KB per item**, committed to git history that
 cannot be pruned without a rewrite. At that weight:
 
 | items | repository size |
@@ -98,7 +98,7 @@ cannot be pruned without a rewrite. At that weight:
 
 GitHub recommends staying under 1 GB and starts warning above 5 GB, so at the current image
 weight this repository leaves the comfortable range somewhere around
-**12,909 items**. The fix is upstream, at
+**12,287 items**. The fix is upstream, at
 generation time: smaller images make both the site and this mirror lighter. It is deliberately
 *not* done here — the whole point of this copy is that its bytes are identical to what the
 site serves, verifiable by the SHA-256 above. Re-encoding here would break that.
@@ -118,3 +118,5 @@ site serves, verifiable by the SHA-256 above. Re-encoding here would break that.
 | 9 | [Obsidian Twist #9](https://scp261.org/item/thermal-lollipop) | Uncommon | candy | 2026-11-04 | [json](metadata/9.json) | `1fe2383f33d39f89` |
 | 10 | [Cogito Snacks #10](https://scp261.org/item/cogito-snacks) | Common | snack | 2026-11-04 | [json](metadata/10.json) | `daea34aeb135aeab` |
 | 11 | [Ceramic Miracle #11](https://scp261.org/item/ceramic-miracle) | Common | drink | 2026-11-05 | [json](metadata/11.json) | `f19727ddeb29852a` |
+| 12 | [Mood Alter Drops #12](https://scp261.org/item/mood-alter-drops) | Common | candy | 2026-11-05 | [json](metadata/12.json) | `93f319595b51f168` |
+| 13 | [Space Credit #13](https://scp261.org/item/space-credit) | Uncommon | currency | 2026-11-05 | [json](metadata/13.json) | `b073b6ba55ae63b8` |

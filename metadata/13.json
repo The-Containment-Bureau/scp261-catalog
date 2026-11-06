@@ -1,0 +1,59 @@
+{
+  "name": "Space Credit #13",
+  "description": "A single metallic coin encased in a small transparent container. When in contact with any traditional currency, the coin exhibits a corrosive effect that transforms the material into identical coins, retaining the original value but altering the form.\n\nEFFECT: Converts other physical currency into replica coins upon contact.\nANOMALOUS PROPERTIES: The coin rapidly corrodes any traditional currency it comes into contact with, converting it into replicas of itself.\nTASTE: Not applicable.\nPACKAGING: A small, transparent cylindrical container holding a single metallic coin. The coin is silver in color and features intricate engravings of planets and stars. The container bears the words \"Space Credit\" in bold, futuristic lettering.\n\nRESEARCHER NOTE: It's like the coin that keeps giving, but your wallet might not love the makeover.\n\nDispensed by SCP-261 on 2026-11-05 — edition #13 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/13.jpg",
+  "external_url": "https://scp261.org/item/space-credit",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Category",
+      "value": "currency"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "mild"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "English"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-chemistry"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "corrosive"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "currency"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 14,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 13,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1793891988,
+      "display_type": "date"
+    }
+  ]
+}

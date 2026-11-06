@@ -1,0 +1,55 @@
+{
+  "name": "Mood Alter Drops #12",
+  "description": "A tin of small, pastel-colored candy drops. Each piece is hard with a smooth, polished surface. Consumption results in a short-lived state of euphoria and sensory detachment, lasting roughly 20 minutes. Consistent use over a short period has shown potential for slight psychological dependency.\n\nEFFECT: Consumption causes a transient, pleasant euphoria with subdued senses and a sense of detachment from immediate surroundings.\nANOMALOUS PROPERTIES: Induces mild euphoric states after consumption, altering the consumer's mood to a relaxed and carefree attitude for approximately 20 minutes.\nTASTE: Sweet with a subtle earthy undertone that dissipates rapidly.\nPACKAGING: A small, circular tin with a pastel-colored lid. The tin features abstract art in soft hues of blue and green, and has the words \"Mood Alter Drops\" printed in an elegant serif font, along with a series of intricate glyphs around the edge.\n\nRESEARCHER NOTE: Ideal for stressful meetings, but keep it off the vending machine discount shelf.\n\nDispensed by SCP-261 on 2026-11-05 — edition #12 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/12.jpg",
+  "external_url": "https://scp261.org/item/mood-alter-drops",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "candy"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "mild"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "French"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-flavor"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "narcotic"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 8,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 12,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1793891279,
+      "display_type": "date"
+    }
+  ]
+}
