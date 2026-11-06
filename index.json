@@ -5,7 +5,7 @@
     "external_link": "https://scp261.org"
   },
   "source": "https://scp261.org/api/nft",
-  "count": 11,
+  "count": 13,
   "tokens": [
     {
       "edition": 1,
@@ -160,6 +160,34 @@
       "imageSha256": "f19727ddeb29852ae2a25dfa9b1a2cecdccaf3471f1878e56b4f9da6a887d493",
       "itemPage": "https://scp261.org/item/ceramic-miracle",
       "tokenUri": "https://scp261.org/api/nft/11"
+    },
+    {
+      "edition": 12,
+      "itemId": "mood-alter-drops",
+      "name": "Mood Alter Drops #12",
+      "rarity": "Common",
+      "category": "candy",
+      "dispensedAt": "2026-11-05T15:07:59.920Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/12.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/12.jpg",
+      "imageBytes": 139113,
+      "imageSha256": "93f319595b51f16873f975b25938a62c32fd263ceb9a1620858accc5b5a6ba80",
+      "itemPage": "https://scp261.org/item/mood-alter-drops",
+      "tokenUri": "https://scp261.org/api/nft/12"
+    },
+    {
+      "edition": 13,
+      "itemId": "space-credit",
+      "name": "Space Credit #13",
+      "rarity": "Uncommon",
+      "category": "currency",
+      "dispensedAt": "2026-11-05T15:19:48.417Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/13.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/13.jpg",
+      "imageBytes": 81990,
+      "imageSha256": "b073b6ba55ae63b826f98a119a585c09148e68e6f7f7c42d14b72e3935b14760",
+      "itemPage": "https://scp261.org/item/space-credit",
+      "tokenUri": "https://scp261.org/api/nft/13"
     }
   ]
 }
