@@ -46,7 +46,7 @@ jobs:
       # whole collection. Each version of it is timestamped once with OpenTimestamps, anchored
       # in Bitcoin, at no cost: proofs/<sha256 of index.json>.ots. A fresh proof is "pending"
       # until a Bitcoin block confirms it (a few hours); later runs upgrade it to a complete,
-      # self-contained proof. No token, no wallet, nothing to own or trade - just evidence that
+      # self-contained proof. Just evidence that
       # this exact collection existed at that time.
       - uses: actions/setup-python@v5
         with:
