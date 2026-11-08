@@ -1,0 +1,55 @@
+{
+  "name": "Miracle Nut Bar #14",
+  "description": "A nutritional snack bar containing a mixture of nuts and honey that provides the consumer with all necessary nutrients for 24 hours and boosts physical health temporarily. No adverse effects observed.\n\nEFFECT: Consumption of the bar results in the consumer experiencing a significant health boost, increased vitality, and a reduced need for other nutrition for a full day.\nANOMALOUS PROPERTIES: Each bar provides complete nutrition and physical health enhancement for 24 hours.\nTASTE: A rich, nutty flavor with hints of honey and roasted almond.\nPACKAGING: A wrapped bar in sleek, minimalist silver packaging featuring a textured design resembling lightning bolts. The product name 'Miracle Nut Bar' is printed in bold black letters. An unreadable series of symbols is faintly embossed along the bottom edge.\n\nRESEARCHER NOTE: Unexpectedly more nutritious than a bureaucrat's baloney, minus the red tape.\n\nDispensed by SCP-261 on 2026-11-08 — edition #14 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/14.jpg",
+  "external_url": "https://scp261.org/item/miracle-nut-bar",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "snack"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "harmless"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "unpowered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "German"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-nutrition"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "miraculous"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 568,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 14,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1794132335,
+      "display_type": "date"
+    }
+  ]
+}

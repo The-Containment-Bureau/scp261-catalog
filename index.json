@@ -4,9 +4,9 @@
     "description": "Every item ever vended by SCP-261, a black vending machine recovered in Yokohama. Put in a dollar and it vends an item that has never existed before: paid for once, generated once, never repeated. Usually a snack. Occasionally something worse.",
     "external_link": "https://scp261.org"
   },
-  "source": "https://scp261.org/api/nft",
-  "count": 13,
-  "tokens": [
+  "source": "https://scp261.org/api/records",
+  "count": 14,
+  "items": [
     {
       "edition": 1,
       "itemId": "liquid-languor",
@@ -19,7 +19,7 @@
       "imageBytes": 47128,
       "imageSha256": "36291514123464166cf53d02cb32cbfa091ff020695c5978841db100bac67c33",
       "itemPage": "https://scp261.org/item/liquid-languor",
-      "tokenUri": "https://scp261.org/api/nft/1"
+      "recordUri": "https://scp261.org/api/records/1"
     },
     {
       "edition": 2,
@@ -33,7 +33,7 @@
       "imageBytes": 76175,
       "imageSha256": "cb509af0b55ddeb905db22d261f16a881dc6ff20800ea558050139aa777b2cf0",
       "itemPage": "https://scp261.org/item/fruity-fizz",
-      "tokenUri": "https://scp261.org/api/nft/2"
+      "recordUri": "https://scp261.org/api/records/2"
     },
     {
       "edition": 3,
@@ -47,7 +47,7 @@
       "imageBytes": 71299,
       "imageSha256": "4a66b3bc3a2d0277285a2bf8ae022e6b3ea28413264211047ddb86ad1363d4c6",
       "itemPage": "https://scp261.org/item/miniature-murmur-turtle",
-      "tokenUri": "https://scp261.org/api/nft/3"
+      "recordUri": "https://scp261.org/api/records/3"
     },
     {
       "edition": 4,
@@ -61,7 +61,7 @@
       "imageBytes": 78569,
       "imageSha256": "250a4e6c39d048268cdc779301557238180e665952720c795b24652c6a5c37f3",
       "itemPage": "https://scp261.org/item/minestrone-morsel",
-      "tokenUri": "https://scp261.org/api/nft/4"
+      "recordUri": "https://scp261.org/api/records/4"
     },
     {
       "edition": 5,
@@ -75,7 +75,7 @@
       "imageBytes": 121198,
       "imageSha256": "d1c67ba5b8f04ff302fe98f768bce4d4a14387f1049d150a70b227e91ff473f6",
       "itemPage": "https://scp261.org/item/rico-coffee-crunch",
-      "tokenUri": "https://scp261.org/api/nft/5"
+      "recordUri": "https://scp261.org/api/records/5"
     },
     {
       "edition": 6,
@@ -89,7 +89,7 @@
       "imageBytes": 84070,
       "imageSha256": "85f21b804808c219d1a1cbae72acb4ae5832dbfc42d533be9f0a395de2786afe",
       "itemPage": "https://scp261.org/item/shimmering-drachma",
-      "tokenUri": "https://scp261.org/api/nft/6"
+      "recordUri": "https://scp261.org/api/records/6"
     },
     {
       "edition": 7,
@@ -103,7 +103,7 @@
       "imageBytes": 125356,
       "imageSha256": "49071f522328f6b2f5d21f20cdc786d4927c9d83c431a60aadf7862658e65c45",
       "itemPage": "https://scp261.org/item/catcoin-bundle",
-      "tokenUri": "https://scp261.org/api/nft/7"
+      "recordUri": "https://scp261.org/api/records/7"
     },
     {
       "edition": 8,
@@ -117,7 +117,7 @@
       "imageBytes": 77428,
       "imageSha256": "e6468d0742e1bf845268d0aa2ea7692d2ef0015e1772d839753c81223c6946c2",
       "itemPage": "https://scp261.org/item/pulpy-exotic-fizz",
-      "tokenUri": "https://scp261.org/api/nft/8"
+      "recordUri": "https://scp261.org/api/records/8"
     },
     {
       "edition": 9,
@@ -131,7 +131,7 @@
       "imageBytes": 57285,
       "imageSha256": "1fe2383f33d39f89f43aaf68db39ef6d3434d38a4e027d2a5b86403ea4e5a3a4",
       "itemPage": "https://scp261.org/item/thermal-lollipop",
-      "tokenUri": "https://scp261.org/api/nft/9"
+      "recordUri": "https://scp261.org/api/records/9"
     },
     {
       "edition": 10,
@@ -145,7 +145,7 @@
       "imageBytes": 104352,
       "imageSha256": "daea34aeb135aeab6b047281a6665f3b5263c8d3b06a1b98b4a76a0d4aec4202",
       "itemPage": "https://scp261.org/item/cogito-snacks",
-      "tokenUri": "https://scp261.org/api/nft/10"
+      "recordUri": "https://scp261.org/api/records/10"
     },
     {
       "edition": 11,
@@ -159,7 +159,7 @@
       "imageBytes": 72126,
       "imageSha256": "f19727ddeb29852ae2a25dfa9b1a2cecdccaf3471f1878e56b4f9da6a887d493",
       "itemPage": "https://scp261.org/item/ceramic-miracle",
-      "tokenUri": "https://scp261.org/api/nft/11"
+      "recordUri": "https://scp261.org/api/records/11"
     },
     {
       "edition": 12,
@@ -173,7 +173,7 @@
       "imageBytes": 139113,
       "imageSha256": "93f319595b51f16873f975b25938a62c32fd263ceb9a1620858accc5b5a6ba80",
       "itemPage": "https://scp261.org/item/mood-alter-drops",
-      "tokenUri": "https://scp261.org/api/nft/12"
+      "recordUri": "https://scp261.org/api/records/12"
     },
     {
       "edition": 13,
@@ -187,7 +187,21 @@
       "imageBytes": 81990,
       "imageSha256": "b073b6ba55ae63b826f98a119a585c09148e68e6f7f7c42d14b72e3935b14760",
       "itemPage": "https://scp261.org/item/space-credit",
-      "tokenUri": "https://scp261.org/api/nft/13"
+      "recordUri": "https://scp261.org/api/records/13"
+    },
+    {
+      "edition": 14,
+      "itemId": "miracle-nut-bar",
+      "name": "Miracle Nut Bar #14",
+      "rarity": "Common",
+      "category": "snack",
+      "dispensedAt": "2026-11-08T10:05:35.311Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/14.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/14.jpg",
+      "imageBytes": 86442,
+      "imageSha256": "a2d0c502beb48da325f663649c803c6534b0ffe4148c8eecd757262eb5eb5616",
+      "itemPage": "https://scp261.org/item/miracle-nut-bar",
+      "recordUri": "https://scp261.org/api/records/14"
     }
   ]
 }
