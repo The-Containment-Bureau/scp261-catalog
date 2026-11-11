@@ -1,0 +1,55 @@
+{
+  "name": "Essence Wafers #15",
+  "description": "Cardboard box containing thin, circular wafers with an unusual flavor profile. The packaging features minimalist artwork and text in English, reminiscent of 1950s ecclesiastical themes.\n\nEFFECT: Transforms the subject's psychological state, inducing feelings akin to ancient monk mindfulness. Lasts approximately 1 hour.\nANOMALOUS PROPERTIES: Subjects who consume the wafers experience a temporary transformation into a different version of themselves, characterized by changes in personality and mindset.\nTASTE: Bland with a subtle hint of honey and wild herbs.\nPACKAGING: A small rectangular cardboard box decorated with minimalist line drawings of serene landscapes and monks in meditation poses. The words 'Essence Wafers' appear in elegant script on the front. Small symbols resembling alchemical glyphs adorn the corners.\n\nRESEARCHER NOTE: Not a viable meditation substitute, regardless of cognitive transformation claims. Last user spent an hour pondering the nature of socks.\n\nDispensed by SCP-261 on 2026-11-11 — edition #15 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/15.jpg",
+  "external_url": "https://scp261.org/item/essence-wafers",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Category",
+      "value": "snack"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "mild"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "English"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-flavor"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "transformation"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 261,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 15,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1794388990,
+      "display_type": "date"
+    }
+  ]
+}

@@ -79,7 +79,7 @@ with nothing newly dispensed produces no diff.
 
 ## Size, and when it becomes a problem
 
-14 item(s), 1.2 MB of images — an average of
+15 item(s), 1.2 MB of images — an average of
 **85 KB per item**, committed to git history that
 cannot be pruned without a rewrite. At that weight:
 
@@ -90,7 +90,7 @@ cannot be pruned without a rewrite. At that weight:
 
 GitHub recommends staying under 1 GB and starts warning above 5 GB, so at the current image
 weight this repository leaves the comfortable range somewhere around
-**12,296 items**. The fix is upstream, at
+**12,369 items**. The fix is upstream, at
 generation time: smaller images make both the site and this mirror lighter. It is deliberately
 *not* done here — the whole point of this copy is that its bytes are identical to what the
 site serves, verifiable by the SHA-256 above. Re-encoding here would break that.
@@ -113,3 +113,4 @@ site serves, verifiable by the SHA-256 above. Re-encoding here would break that.
 | 12 | [Mood Alter Drops #12](https://scp261.org/item/mood-alter-drops) | Common | candy | 2026-11-05 | [json](metadata/12.json) | `93f319595b51f168` |
 | 13 | [Space Credit #13](https://scp261.org/item/space-credit) | Uncommon | currency | 2026-11-05 | [json](metadata/13.json) | `b073b6ba55ae63b8` |
 | 14 | [Miracle Nut Bar #14](https://scp261.org/item/miracle-nut-bar) | Common | snack | 2026-11-08 | [json](metadata/14.json) | `a2d0c502beb48da3` |
+| 15 | [Essence Wafers #15](https://scp261.org/item/essence-wafers) | Uncommon | snack | 2026-11-11 | [json](metadata/15.json) | `6dfb015dcd089915` |
