@@ -5,7 +5,7 @@
     "external_link": "https://scp261.org"
   },
   "source": "https://scp261.org/api/records",
-  "count": 15,
+  "count": 16,
   "items": [
     {
       "edition": 1,
@@ -216,6 +216,20 @@
       "imageSha256": "6dfb015dcd08991567d1532bd977d8abce2508c105adb375f3d56d2b9fd0fae2",
       "itemPage": "https://scp261.org/item/essence-wafers",
       "recordUri": "https://scp261.org/api/records/15"
+    },
+    {
+      "edition": 16,
+      "itemId": "elixir-candies",
+      "name": "Elixir Candies #16",
+      "rarity": "Uncommon",
+      "category": "candy",
+      "dispensedAt": "2026-11-12T14:27:20.767Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/16.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/16.jpg",
+      "imageBytes": 70596,
+      "imageSha256": "e03e116cce8f3b604565b56e49145d9728a3c51d327cb2209f39a870fa5cdd44",
+      "itemPage": "https://scp261.org/item/elixir-candies",
+      "recordUri": "https://scp261.org/api/records/16"
     }
   ]
 }

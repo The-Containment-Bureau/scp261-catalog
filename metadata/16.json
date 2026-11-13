@@ -1,0 +1,59 @@
+{
+  "name": "Elixir Candies #16",
+  "description": "A roll of colored candies, each individually wrapped, featuring a narcotic effect that induces euphoria and dependency. The flavor profile changes randomly with each candy consumed, making it highly unpredictable.\n\nEFFECT: Subjects experience profound relaxation and mild euphoria; repeated use leads to strong dependency.\nANOMALOUS PROPERTIES: Upon consumption, induces a state of euphoria while concurrently altering the perceived flavor profile with enigmatic complexity.\nTASTE: Variable and dynamic, with initial flavors that are sweet and fruity transitioning unpredictably.\nPACKAGING: A roll of candies wrapped in a translucent blue plastic with swirling silver patterns and the phrase 'Elixir Candies' written in Korean characters. The packaging includes warning symbols and unidentified glyphs.\n\nRESEARCHER NOTE: Ideal for the connoisseur of chaos. Handle with caution due to the dependency risk.\n\nDispensed by SCP-261 on 2026-11-12 — edition #16 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/16.jpg",
+  "external_url": "https://scp261.org/item/elixir-candies",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Category",
+      "value": "candy"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "harmful"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "Korean"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-chemistry"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-flavor"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "narcotic"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 261,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 16,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1794493640,
+      "display_type": "date"
+    }
+  ]
+}
