@@ -79,18 +79,18 @@ with nothing newly dispensed produces no diff.
 
 ## Size, and when it becomes a problem
 
-16 item(s), 1.3 MB of images — an average of
-**84 KB per item**, committed to git history that
+17 item(s), 1.5 MB of images — an average of
+**90 KB per item**, committed to git history that
 cannot be pruned without a rewrite. At that weight:
 
 | items | repository size |
 | --- | --- |
-| 1,000 | ~0.08 GB |
-| 10,000 | ~0.8 GB |
+| 1,000 | ~0.09 GB |
+| 10,000 | ~0.9 GB |
 
 GitHub recommends staying under 1 GB and starts warning above 5 GB, so at the current image
 weight this repository leaves the comfortable range somewhere around
-**12,515 items**. The fix is upstream, at
+**11,649 items**. The fix is upstream, at
 generation time: smaller images make both the site and this mirror lighter. It is deliberately
 *not* done here — the whole point of this copy is that its bytes are identical to what the
 site serves, verifiable by the SHA-256 above. Re-encoding here would break that.
@@ -115,3 +115,4 @@ site serves, verifiable by the SHA-256 above. Re-encoding here would break that.
 | 14 | [Miracle Nut Bar #14](https://scp261.org/item/miracle-nut-bar) | Common | snack | 2026-11-08 | [json](metadata/14.json) | `a2d0c502beb48da3` |
 | 15 | [Essence Wafers #15](https://scp261.org/item/essence-wafers) | Uncommon | snack | 2026-11-11 | [json](metadata/15.json) | `6dfb015dcd089915` |
 | 16 | [Elixir Candies #16](https://scp261.org/item/elixir-candies) | Uncommon | candy | 2026-11-12 | [json](metadata/16.json) | `e03e116cce8f3b60` |
+| 17 | [Spice Pops #17](https://scp261.org/item/spice-pops) | Common | snack | 2026-11-13 | [json](metadata/17.json) | `369b90c15cb20d1b` |

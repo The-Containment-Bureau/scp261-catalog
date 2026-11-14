@@ -1,0 +1,55 @@
+{
+  "name": "Spice Pops #17",
+  "description": "Mesh bag containing multi-flavored candies that release a spice-infused burst upon consumption, producing a pop that is startling but harmless.\n\nEFFECT: Elicits a brief but intense spicy sensation, followed by a mild popping sound and feeling in the mouth.\nANOMALOUS PROPERTIES: The candies detonate with a small, harmless pop when bitten into, releasing a burst of assorted spice flavors.\nTASTE: Varied spice mix, including black pepper, chili, and cinnamon.\nPACKAGING: A small, colorful mesh bag containing individually wrapped candies. The wrappers are vibrant, depicting stylized illustrations of spices and the phrase \"Mchemko Karanga\" in bold letters. A warning symbol is printed on each wrapper, indicating a potential explosive effect.\n\nRESEARCHER NOTE: Next time, let's test with ear protection. The pop was louder than expected.\n\nDispensed by SCP-261 on 2026-11-13 — edition #17 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/17.jpg",
+  "external_url": "https://scp261.org/item/spice-pops",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "snack"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "harmless"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "Swahili"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-flavor"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "explosive"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 261,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 17,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1794605524,
+      "display_type": "date"
+    }
+  ]
+}

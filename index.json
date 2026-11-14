@@ -5,7 +5,7 @@
     "external_link": "https://scp261.org"
   },
   "source": "https://scp261.org/api/records",
-  "count": 16,
+  "count": 17,
   "items": [
     {
       "edition": 1,
@@ -230,6 +230,20 @@
       "imageSha256": "e03e116cce8f3b604565b56e49145d9728a3c51d327cb2209f39a870fa5cdd44",
       "itemPage": "https://scp261.org/item/elixir-candies",
       "recordUri": "https://scp261.org/api/records/16"
+    },
+    {
+      "edition": 17,
+      "itemId": "spice-pops",
+      "name": "Spice Pops #17",
+      "rarity": "Common",
+      "category": "snack",
+      "dispensedAt": "2026-11-13T21:32:04.463Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/17.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/17.jpg",
+      "imageBytes": 194175,
+      "imageSha256": "369b90c15cb20d1bd7f99a14f59f2a15d5c18be3207903325093ef5bffc51569",
+      "itemPage": "https://scp261.org/item/spice-pops",
+      "recordUri": "https://scp261.org/api/records/17"
     }
   ]
 }
