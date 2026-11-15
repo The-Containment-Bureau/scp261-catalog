@@ -5,7 +5,7 @@
     "external_link": "https://scp261.org"
   },
   "source": "https://scp261.org/api/records",
-  "count": 17,
+  "count": 19,
   "items": [
     {
       "edition": 1,
@@ -244,6 +244,34 @@
       "imageSha256": "369b90c15cb20d1bd7f99a14f59f2a15d5c18be3207903325093ef5bffc51569",
       "itemPage": "https://scp261.org/item/spice-pops",
       "recordUri": "https://scp261.org/api/records/17"
+    },
+    {
+      "edition": 18,
+      "itemId": "thought-crisp",
+      "name": "Thought Crisp #18",
+      "rarity": "Common",
+      "category": "snack",
+      "dispensedAt": "2026-11-14T15:07:48.148Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/18.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/18.jpg",
+      "imageBytes": 121192,
+      "imageSha256": "5aa5f13ab84793fe7b5592667bd8088972ceb7cc805e0f5c43c1db3a304a4f52",
+      "itemPage": "https://scp261.org/item/thought-crisp",
+      "recordUri": "https://scp261.org/api/records/18"
+    },
+    {
+      "edition": 19,
+      "itemId": "reality-shift-bug",
+      "name": "Reality Shift Bug #19",
+      "rarity": "Common",
+      "category": "creature",
+      "dispensedAt": "2026-11-14T21:47:21.344Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/19.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/19.jpg",
+      "imageBytes": 96366,
+      "imageSha256": "2602a22afd23e79269b8275f1f4a4c119eb08fec8fd6b8937aa4ed9e11a3481a",
+      "itemPage": "https://scp261.org/item/reality-shift-bug",
+      "recordUri": "https://scp261.org/api/records/19"
     }
   ]
 }

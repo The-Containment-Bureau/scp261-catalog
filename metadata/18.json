@@ -1,0 +1,55 @@
+{
+  "name": "Thought Crisp #18",
+  "description": "A snack dispensed in a vintage-style brown paper bag marked with Vietnamese text. Contains a handful of brittle, round crisps. When consumed, these crisps induce momentary memory confusion and feelings of nostalgia disconnected from the consumer's actual experiences.\n\nEFFECT: Consumption causes temporary lapses in short-term memory and an overwhelming sense of nostalgia for an indeterminate time and place.\nANOMALOUS PROPERTIES: Exposing the snack to air creates visual distortions around the bag.\nTASTE: Papery with a hint of roasted peanuts.\nPACKAGING: A small, unassuming brown paper bag with faded blue and red print. The front reads \"Thought Crisp\" in Vietnamese. Simple geometric patterns decorate the edges, with faded glyphs lining the bottom.\n\nRESEARCHER NOTE: Might be suitable for sentiment marketing—if you don't mind the memory gaps.\n\nDispensed by SCP-261 on 2026-11-14 — edition #18 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/18.jpg",
+  "external_url": "https://scp261.org/item/thought-crisp",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "snack"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "mild"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "Vietnamese"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-flavor"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "cognitohazard"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 261,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 18,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1794668868,
+      "display_type": "date"
+    }
+  ]
+}

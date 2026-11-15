@@ -1,0 +1,59 @@
+{
+  "name": "Reality Shift Bug #19",
+  "description": "A small insect resembling a ladybug, possessing geometric patterns that actively alter when observed. This entity causes minor reality alterations in its immediate surroundings, which are temporary and confined to a small area. The changes revert when the insect is more than three meters away from a fixed position.\n\nEFFECT: Observers within a three-meter radius perceive subtle, localized reality shifts, such as color changes, minor time anomalies, and inverted spatial dimensions.\nANOMALOUS PROPERTIES: The insect exhibits reality-bending abilities by altering the perceived environment around it. This effect is limited to the immediate vicinity and dissipates if the creature moves more than three meters away from its current position.\nTASTE: Not applicable.\nPACKAGING: A small wire cage with a hinged door, containing a live insect resembling a ladybug, but with geometric patterns on its back that shift in response to viewer observation. The label on the cage reads \"Zmiennik Rzeczywistości\" in bold, colorful letters, alongside small symbols mimicking the patterns on the insect.\n\nRESEARCHER NOTE: Finally, a pet that does more than just sit there. Perfect for livening up a dull office setting.\n\nDispensed by SCP-261 on 2026-11-14 — edition #19 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/19.jpg",
+  "external_url": "https://scp261.org/item/reality-shift-bug",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "creature"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "mild"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "Polish"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-biology"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "living-creature"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "reality-bending"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 261,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 19,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1794692841,
+      "display_type": "date"
+    }
+  ]
+}
