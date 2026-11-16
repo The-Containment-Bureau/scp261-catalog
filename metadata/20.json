@@ -1,0 +1,59 @@
+{
+  "name": "ArmetSK Rounds #20",
+  "description": "A box containing twenty metallic rounds. Each round emits a low hum when handled and after prolonged exposure causes a significant psychological dependency, primarily affecting aggression centers and ownership perception.\n\nEFFECT: Rounds create sonic disturbances upon firing, disorienting and incapacitating targets within a ten-meter radius.\nANOMALOUS PROPERTIES: Repeated handling of the rounds induces a psychological compulsion to maintain possession and use, paired with increased aggression and obsessive tendencies in relation to ownership.\nTASTE: N/A\nPACKAGING: A square, matte cardboard box featuring a stylized hammer and sickle emblem. The text reads 'ArmetSK Rounds'. Indecipherable symbols line the edges.\n\nRESEARCHER NOTE: Probably best not to mix these with other compulsions. Or stress balls.\n\nDispensed by SCP-261 on 2026-11-15 — edition #20 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/20.jpg",
+  "external_url": "https://scp261.org/item/armetsk-rounds",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "weapon"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "harmful"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "Russian"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "addictive"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-chemistry"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "weaponized"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 261,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 20,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1794773614,
+      "display_type": "date"
+    }
+  ]
+}

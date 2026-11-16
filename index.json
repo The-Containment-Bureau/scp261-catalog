@@ -5,7 +5,7 @@
     "external_link": "https://scp261.org"
   },
   "source": "https://scp261.org/api/records",
-  "count": 19,
+  "count": 21,
   "items": [
     {
       "edition": 1,
@@ -272,6 +272,34 @@
       "imageSha256": "2602a22afd23e79269b8275f1f4a4c119eb08fec8fd6b8937aa4ed9e11a3481a",
       "itemPage": "https://scp261.org/item/reality-shift-bug",
       "recordUri": "https://scp261.org/api/records/19"
+    },
+    {
+      "edition": 20,
+      "itemId": "armetsk-rounds",
+      "name": "ArmetSK Rounds #20",
+      "rarity": "Common",
+      "category": "weapon",
+      "dispensedAt": "2026-11-15T20:13:34.274Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/20.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/20.jpg",
+      "imageBytes": 113054,
+      "imageSha256": "07466c522328f501dc66331f4192717b137dd16a4fd092df8f5af86cf7f5537c",
+      "itemPage": "https://scp261.org/item/armetsk-rounds",
+      "recordUri": "https://scp261.org/api/records/20"
+    },
+    {
+      "edition": 21,
+      "itemId": "soviet-gas-blaster",
+      "name": "Soviet Gas Blaster #21",
+      "rarity": "Uncommon",
+      "category": "weapon",
+      "dispensedAt": "2026-11-16T09:13:07.695Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/21.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/21.jpg",
+      "imageBytes": 75973,
+      "imageSha256": "2e05abceb3d81dd2b9e3d085e63d8a8b552b0971ff4229274dbba8a240aa86e6",
+      "itemPage": "https://scp261.org/item/soviet-gas-blaster",
+      "recordUri": "https://scp261.org/api/records/21"
     }
   ]
 }

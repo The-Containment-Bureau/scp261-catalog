@@ -1,0 +1,59 @@
+{
+  "name": "Soviet Gas Blaster #21",
+  "description": "A toy-like gas pistol from the Soviet Union, which releases an inexplicable fog when operated. Upon inhalation, the gas induces a state of mild drowsiness and confusion. The gas dissipates within 10 minutes.\n\nEFFECT: Induces mild drowsiness and disorientation in targets within a 5-meter radius.\nANOMALOUS PROPERTIES: The pistol emits a cloud of gas resembling fog when the trigger is pulled, causing drowsiness in those exposed.\nTASTE: Not applicable.\nPACKAGING: The item is a small, plastic toy-like pistol with a dull red and green color scheme. The body features a retro Soviet aesthetic with blocky, angular shapes. The words \"Газовое Бластер\" are printed in yellow Cyrillic letters on the side. The nozzle has a faint, green luminescence.\n\nRESEARCHER NOTE: Manual suggests toy use but feels eerily purpose-driven. A joker in the Soviet arsenal?\n\nDispensed by SCP-261 on 2026-11-16 — edition #21 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/21.jpg",
+  "external_url": "https://scp261.org/item/soviet-gas-blaster",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Category",
+      "value": "weapon"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "mild"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "Russian"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-chemistry"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "gas"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "weaponized"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 261,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 21,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1794820387,
+      "display_type": "date"
+    }
+  ]
+}

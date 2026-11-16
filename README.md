@@ -79,7 +79,7 @@ with nothing newly dispensed produces no diff.
 
 ## Size, and when it becomes a problem
 
-19 item(s), 1.7 MB of images — an average of
+21 item(s), 1.9 MB of images — an average of
 **92 KB per item**, committed to git history that
 cannot be pruned without a rewrite. At that weight:
 
@@ -90,7 +90,7 @@ cannot be pruned without a rewrite. At that weight:
 
 GitHub recommends staying under 1 GB and starts warning above 5 GB, so at the current image
 weight this repository leaves the comfortable range somewhere around
-**11,432 items**. The fix is upstream, at
+**11,426 items**. The fix is upstream, at
 generation time: smaller images make both the site and this mirror lighter. It is deliberately
 *not* done here — the whole point of this copy is that its bytes are identical to what the
 site serves, verifiable by the SHA-256 above. Re-encoding here would break that.
@@ -118,3 +118,5 @@ site serves, verifiable by the SHA-256 above. Re-encoding here would break that.
 | 17 | [Spice Pops #17](https://scp261.org/item/spice-pops) | Common | snack | 2026-11-13 | [json](metadata/17.json) | `369b90c15cb20d1b` |
 | 18 | [Thought Crisp #18](https://scp261.org/item/thought-crisp) | Common | snack | 2026-11-14 | [json](metadata/18.json) | `5aa5f13ab84793fe` |
 | 19 | [Reality Shift Bug #19](https://scp261.org/item/reality-shift-bug) | Common | creature | 2026-11-14 | [json](metadata/19.json) | `2602a22afd23e792` |
+| 20 | [ArmetSK Rounds #20](https://scp261.org/item/armetsk-rounds) | Common | weapon | 2026-11-15 | [json](metadata/20.json) | `07466c522328f501` |
+| 21 | [Soviet Gas Blaster #21](https://scp261.org/item/soviet-gas-blaster) | Uncommon | weapon | 2026-11-16 | [json](metadata/21.json) | `2e05abceb3d81dd2` |
