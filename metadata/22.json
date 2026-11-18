@@ -1,0 +1,59 @@
+{
+  "name": "Orbit Chews #22",
+  "description": "A space-themed chewing gum that evokes nostalgic and melancholy feelings of space exploration, flavored uniquely by tapping into the consumer's memories. Generates a warming sensation upon chewing.\n\nEFFECT: Consuming the gum induces brief, vivid memories of space travel or exploration experiences, even if the consumer has never experienced them. This often results in a nostalgic or melancholic emotional state.\nANOMALOUS PROPERTIES: The chewing gum alters the flavor based on the consumer's memories, evoking a sense of nostalgia with each chew. Additionally, it generates a slight warmth without external heat sources.\nTASTE: Varies based on individual memories, though consistently described as having a lingering sense of sweetness with metallic undertones.\nPACKAGING: A compact pack of gum shaped like a space shuttle, predominantly metallic silver with blue accents. The name \"Orbit Chews\" is printed boldly along the side, accompanied by abstract glyphs resembling star maps.\n\nRESEARCHER NOTE: The flavor-changing mechanism seems overpriced at ¥261, until one remembers the cost of emotional baggage is immeasurable.\n\nDispensed by SCP-261 on 2026-11-18 — edition #22 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/22.jpg",
+  "external_url": "https://scp261.org/item/orbit-chews",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "candy"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "harmless"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "English"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-flavor"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "dimensional"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "self-heating"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 261,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 22,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1795002159,
+      "display_type": "date"
+    }
+  ]
+}

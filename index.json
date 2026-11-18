@@ -5,7 +5,7 @@
     "external_link": "https://scp261.org"
   },
   "source": "https://scp261.org/api/records",
-  "count": 21,
+  "count": 23,
   "items": [
     {
       "edition": 1,
@@ -300,6 +300,34 @@
       "imageSha256": "2e05abceb3d81dd2b9e3d085e63d8a8b552b0971ff4229274dbba8a240aa86e6",
       "itemPage": "https://scp261.org/item/soviet-gas-blaster",
       "recordUri": "https://scp261.org/api/records/21"
+    },
+    {
+      "edition": 22,
+      "itemId": "orbit-chews",
+      "name": "Orbit Chews #22",
+      "rarity": "Common",
+      "category": "candy",
+      "dispensedAt": "2026-11-18T11:42:39.036Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/22.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/22.jpg",
+      "imageBytes": 43033,
+      "imageSha256": "e8ad9378111d83682baf3e9d5a0f97640d470e519459307dec4ce4f57f778f82",
+      "itemPage": "https://scp261.org/item/orbit-chews",
+      "recordUri": "https://scp261.org/api/records/22"
+    },
+    {
+      "edition": 23,
+      "itemId": "melody-chips",
+      "name": "Melody Chips #23",
+      "rarity": "Common",
+      "category": "snack",
+      "dispensedAt": "2026-11-18T13:34:02.634Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/23.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/23.jpg",
+      "imageBytes": 59222,
+      "imageSha256": "ba5a8b5df5fb5e7eaa964b0b79e7ab562e5cdcd18ed0315e2d43398539636ac0",
+      "itemPage": "https://scp261.org/item/melody-chips",
+      "recordUri": "https://scp261.org/api/records/23"
     }
   ]
 }

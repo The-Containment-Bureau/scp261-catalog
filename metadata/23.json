@@ -1,0 +1,55 @@
+{
+  "name": "Melody Chips #23",
+  "description": "A brightly colored cardboard box adorned with stylized musical notes and traditional Ethiopian patterns. The label reads 'Melody Chips' in both Amharic and English, alongside the slogan 'A Taste of Harmony'. The contents consist of thin, crispy chips exuding an aroma of rich spices.\n\nEFFECT: Induces spontaneous humming of various traditional Ethiopian melodies when consumed.\nANOMALOUS PROPERTIES: Compels the consumer to hum a melody for several hours.\nTASTE: Savory with a hint of traditional Ethiopian spices.\nPACKAGING: cardboard box\n\nRESEARCHER NOTE: Now I can't get 'Almaz' out of my head. A little inconvenient during security briefings.\n\nDispensed by SCP-261 on 2026-11-18 — edition #23 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/23.jpg",
+  "external_url": "https://scp261.org/item/melody-chips",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "snack"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "harmless"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "Amharic"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-flavor"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "memetic"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 261,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 23,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1795008842,
+      "display_type": "date"
+    }
+  ]
+}
