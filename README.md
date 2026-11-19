@@ -79,8 +79,8 @@ with nothing newly dispensed produces no diff.
 
 ## Size, and when it becomes a problem
 
-23 item(s), 2.0 MB of images — an average of
-**88 KB per item**, committed to git history that
+24 item(s), 2.0 MB of images — an average of
+**87 KB per item**, committed to git history that
 cannot be pruned without a rewrite. At that weight:
 
 | items | repository size |
@@ -90,7 +90,7 @@ cannot be pruned without a rewrite. At that weight:
 
 GitHub recommends staying under 1 GB and starts warning above 5 GB, so at the current image
 weight this repository leaves the comfortable range somewhere around
-**11,897 items**. The fix is upstream, at
+**12,047 items**. The fix is upstream, at
 generation time: smaller images make both the site and this mirror lighter. It is deliberately
 *not* done here — the whole point of this copy is that its bytes are identical to what the
 site serves, verifiable by the SHA-256 above. Re-encoding here would break that.
@@ -122,3 +122,4 @@ site serves, verifiable by the SHA-256 above. Re-encoding here would break that.
 | 21 | [Soviet Gas Blaster #21](https://scp261.org/item/soviet-gas-blaster) | Uncommon | weapon | 2026-11-16 | [json](metadata/21.json) | `2e05abceb3d81dd2` |
 | 22 | [Orbit Chews #22](https://scp261.org/item/orbit-chews) | Common | candy | 2026-11-18 | [json](metadata/22.json) | `e8ad9378111d8368` |
 | 23 | [Melody Chips #23](https://scp261.org/item/melody-chips) | Common | snack | 2026-11-18 | [json](metadata/23.json) | `ba5a8b5df5fb5e7e` |
+| 24 | [TNT Sweets #24](https://scp261.org/item/tnt-sweets) | Common | candy | 2026-11-19 | [json](metadata/24.json) | `b5f764fef91aac35` |

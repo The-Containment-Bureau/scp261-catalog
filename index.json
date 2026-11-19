@@ -5,7 +5,7 @@
     "external_link": "https://scp261.org"
   },
   "source": "https://scp261.org/api/records",
-  "count": 23,
+  "count": 24,
   "items": [
     {
       "edition": 1,
@@ -328,6 +328,20 @@
       "imageSha256": "ba5a8b5df5fb5e7eaa964b0b79e7ab562e5cdcd18ed0315e2d43398539636ac0",
       "itemPage": "https://scp261.org/item/melody-chips",
       "recordUri": "https://scp261.org/api/records/23"
+    },
+    {
+      "edition": 24,
+      "itemId": "tnt-sweets",
+      "name": "TNT Sweets #24",
+      "rarity": "Common",
+      "category": "candy",
+      "dispensedAt": "2026-11-19T13:00:56.793Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/24.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/24.jpg",
+      "imageBytes": 63314,
+      "imageSha256": "b5f764fef91aac35d62509e4dbe778b1fd6b40238aecef60cb712800fc40c3e7",
+      "itemPage": "https://scp261.org/item/tnt-sweets",
+      "recordUri": "https://scp261.org/api/records/24"
     }
   ]
 }

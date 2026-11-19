@@ -1,0 +1,55 @@
+{
+  "name": "TNT Sweets #24",
+  "description": "A roll of candies resembling small sticks of dynamite, packaged in vibrant red paper. Upon biting into the candy, a mild explosive sensation occurs within the mouth, safe for human consumption and leaving no physical damage beyond a fleeting smoke-like vapor.\n\nEFFECT: The candies create a mild explosive effect within the mouth, producing a popping sensation and a brief flash visible externally. Flavors are reported as unusually intense during the effect.\nANOMALOUS PROPERTIES: Each candy emits a small, harmless pop upon consumption, accompanied by a bright flash of light.\nTASTE: Described as a highly intensified version of traditional fruit flavors, such as mango, lychee, and passionfruit.\nPACKAGING: A small, cylindrical roll wrapped in bright, red paper featuring cartoon depictions of dynamite sticks. The label reads 'TNT Sweets' in bold letters, with additional text in Vietnamese. Explosive motifs decorate the wrapper, along with yellow stars and warning symbols.\n\nRESEARCHER NOTE: A fun, explosive treat for the adventurer's palate. Highly popular among thrill-seeking sweet tooths.\n\nDispensed by SCP-261 on 2026-11-19 — edition #24 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/24.jpg",
+  "external_url": "https://scp261.org/item/tnt-sweets",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "candy"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "harmless"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "Vietnamese"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-flavor"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "explosive"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 261,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 24,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1795093256,
+      "display_type": "date"
+    }
+  ]
+}
