@@ -1,0 +1,55 @@
+{
+  "name": "Rainbow Chocolates #25",
+  "description": "A blister pack containing six spherical chocolates, each wrapped in a glossy coating that continuously cycles through colors. Once consumed, chocolates emit a flavor associated with the current color instead of typical chocolate taste.\n\nEFFECT: Subjects experience taste sensations matching the visible color of the chocolate at consumption time, with flavors ranging from savory to sweet.\nANOMALOUS PROPERTIES: The chocolates change color every five seconds when exposed to light, cycling through the visible spectrum. Once consumed, the chocolates provide a distinct flavor corresponding to their color at the moment of ingestion.\nTASTE: Variable, determined by the color of each chocolate.\nPACKAGING: A blister pack containing six individual compartments, each with a small, round chocolate covered in a vivid, glossy wrapper. The wrappers shift in a gradient of colors, displaying random patterns of geometric shapes. The text '色彩豐富' ('Colorful') is printed in bright lettering across the top.\n\nRESEARCHER NOTE: Could be a fun addition to Foundation team parties—or how to ensure enduring color-themed disputes.\n\nDispensed by SCP-261 on 2026-11-20 — edition #25 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/25.jpg",
+  "external_url": "https://scp261.org/item/rainbow-chocolates",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Category",
+      "value": "candy"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "harmless"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "Traditional Chinese"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-flavor"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "color-change"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 261,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 25,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1795174287,
+      "display_type": "date"
+    }
+  ]
+}

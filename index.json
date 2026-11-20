@@ -5,7 +5,7 @@
     "external_link": "https://scp261.org"
   },
   "source": "https://scp261.org/api/records",
-  "count": 24,
+  "count": 25,
   "items": [
     {
       "edition": 1,
@@ -342,6 +342,20 @@
       "imageSha256": "b5f764fef91aac35d62509e4dbe778b1fd6b40238aecef60cb712800fc40c3e7",
       "itemPage": "https://scp261.org/item/tnt-sweets",
       "recordUri": "https://scp261.org/api/records/24"
+    },
+    {
+      "edition": 25,
+      "itemId": "rainbow-chocolates",
+      "name": "Rainbow Chocolates #25",
+      "rarity": "Uncommon",
+      "category": "candy",
+      "dispensedAt": "2026-11-20T11:31:27.176Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/25.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/25.jpg",
+      "imageBytes": 72259,
+      "imageSha256": "0fc8b5ad9cec5ccf95c6ae6a0284e35d6267684c84d9786cefaa4d19ef3567bf",
+      "itemPage": "https://scp261.org/item/rainbow-chocolates",
+      "recordUri": "https://scp261.org/api/records/25"
     }
   ]
 }
