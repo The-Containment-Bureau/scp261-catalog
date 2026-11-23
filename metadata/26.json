@@ -1,0 +1,55 @@
+{
+  "name": "Verdant Crumbs #26",
+  "description": "A box containing small granules resembling bread crumbs, notable for hosting dormant microscopic life that activates during digestion, inexplicably providing a soothing experience reminiscent of organic growth.\n\nEFFECT: When consumed, subjects report a calming growth sensation attributed to the activation of micro-organisms within the snack.\nANOMALOUS PROPERTIES: Contains dormant, microscopic organisms that activate upon consumption, providing a subtle sensation of growth within the consumer.\nTASTE: Mildly earthy with a hint of sweetness, similar to fresh sprouts.\nPACKAGING: A compact, cubical cardboard box with soft green tones. The front displays a simplistic illustration of a budding plant beside the product name 'Verdant Crumbs'. Below, a slogan reads 'Rafraîchissez votre âme'. Tiny symbols resembling microscopic cellular structures line the sides.\n\nRESEARCHER NOTE: Perfect for those wanting to feel a bit greener on the inside.\n\nDispensed by SCP-261 on 2026-11-22 — edition #26 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/26.jpg",
+  "external_url": "https://scp261.org/item/verdant-crumbs",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "snack"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "harmless"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "French"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-biology"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "living-creature"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 261,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 26,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1795378685,
+      "display_type": "date"
+    }
+  ]
+}

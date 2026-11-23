@@ -5,7 +5,7 @@
     "external_link": "https://scp261.org"
   },
   "source": "https://scp261.org/api/records",
-  "count": 25,
+  "count": 26,
   "items": [
     {
       "edition": 1,
@@ -356,6 +356,20 @@
       "imageSha256": "0fc8b5ad9cec5ccf95c6ae6a0284e35d6267684c84d9786cefaa4d19ef3567bf",
       "itemPage": "https://scp261.org/item/rainbow-chocolates",
       "recordUri": "https://scp261.org/api/records/25"
+    },
+    {
+      "edition": 26,
+      "itemId": "verdant-crumbs",
+      "name": "Verdant Crumbs #26",
+      "rarity": "Common",
+      "category": "snack",
+      "dispensedAt": "2026-11-22T20:18:05.433Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/26.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/26.jpg",
+      "imageBytes": 53834,
+      "imageSha256": "fcec4f4e7121c6f72a54041786ff08185d0885227aa21056d830d5bfae74364e",
+      "itemPage": "https://scp261.org/item/verdant-crumbs",
+      "recordUri": "https://scp261.org/api/records/26"
     }
   ]
 }

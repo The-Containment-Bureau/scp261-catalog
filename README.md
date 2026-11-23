@@ -79,8 +79,8 @@ with nothing newly dispensed produces no diff.
 
 ## Size, and when it becomes a problem
 
-25 item(s), 2.1 MB of images — an average of
-**86 KB per item**, committed to git history that
+26 item(s), 2.2 MB of images — an average of
+**85 KB per item**, committed to git history that
 cannot be pruned without a rewrite. At that weight:
 
 | items | repository size |
@@ -90,7 +90,7 @@ cannot be pruned without a rewrite. At that weight:
 
 GitHub recommends staying under 1 GB and starts warning above 5 GB, so at the current image
 weight this repository leaves the comfortable range somewhere around
-**12,139 items**. The fix is upstream, at
+**12,325 items**. The fix is upstream, at
 generation time: smaller images make both the site and this mirror lighter. It is deliberately
 *not* done here — the whole point of this copy is that its bytes are identical to what the
 site serves, verifiable by the SHA-256 above. Re-encoding here would break that.
@@ -124,3 +124,4 @@ site serves, verifiable by the SHA-256 above. Re-encoding here would break that.
 | 23 | [Melody Chips #23](https://scp261.org/item/melody-chips) | Common | snack | 2026-11-18 | [json](metadata/23.json) | `ba5a8b5df5fb5e7e` |
 | 24 | [TNT Sweets #24](https://scp261.org/item/tnt-sweets) | Common | candy | 2026-11-19 | [json](metadata/24.json) | `b5f764fef91aac35` |
 | 25 | [Rainbow Chocolates #25](https://scp261.org/item/rainbow-chocolates) | Uncommon | candy | 2026-11-20 | [json](metadata/25.json) | `0fc8b5ad9cec5ccf` |
+| 26 | [Verdant Crumbs #26](https://scp261.org/item/verdant-crumbs) | Common | snack | 2026-11-22 | [json](metadata/26.json) | `fcec4f4e7121c6f7` |
