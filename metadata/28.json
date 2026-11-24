@@ -1,0 +1,55 @@
+{
+  "name": "Polar Twists #28",
+  "description": "A collection of individually twist-wrapped candies that resemble common peppermint sweets. The wrappers feature intricate designs of ice and snowflakes, and the candy inside is a translucent blue-green color.\n\nEFFECT: After consumption, subjects report feeling cold or warm sensations unrelated to their surroundings, lasting approximately 45 minutes.\nANOMALOUS PROPERTIES: Modifies the body's perception of temperature, causing temporary chills or warmth regardless of the actual environment.\nTASTE: A peculiar combination of mint and vanilla with a hint of metal.\nPACKAGING: Brightly colored twist-wrappers featuring abstract ice and snowflake patterns. The words \"Polar Twists\" are printed in bold, icy letters with a small red warning symbol at the bottom.\n\nRESEARCHER NOTE: Great for hot days or messing with coworkers' thermostats. Effect wears off in under an hour.\n\nDispensed by SCP-261 on 2026-11-24 — edition #28 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/28.jpg",
+  "external_url": "https://scp261.org/item/polar-twists",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "candy"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "mild"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "English"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-chemistry"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-flavor"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 261,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 28,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1795510745,
+      "display_type": "date"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Verdant Meal #27",
+  "description": "Contained within the pouch is a compact serving of green gel-like sustenance. Upon opening, the gel emits spores that induce plant growth in a localized area, regardless of the presence of fertile soil.\n\nEFFECT: Upon opening, the meal causes a small area around it to experience accelerated plant growth, producing greenery at an unnatural pace.\nANOMALOUS PROPERTIES: Rapid plant growth observed in close proximity to the opened container.\nTASTE: The meal has a vegetal, fresh taste reminiscent of leafy greens and herbs.\nPACKAGING: A green retort pouch with illustrated futuristic landscapes featuring massive trees and lush vegetation. The words \"Verdant Meal\" appear below the image in bold, stylized glyphs.\n\nRESEARCHER NOTE: Potentially useful for terraforming, though not so much for a home garden unless overgrown is the goal.\n\nDispensed by SCP-261 on 2026-11-23 — edition #27 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/27.jpg",
+  "external_url": "https://scp261.org/item/verdant-meal",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "meal"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "mild"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "unknown"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-nutrition"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "growth"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 261,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 27,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1795469392,
+      "display_type": "date"
+    }
+  ]
+}

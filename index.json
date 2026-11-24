@@ -5,7 +5,7 @@
     "external_link": "https://scp261.org"
   },
   "source": "https://scp261.org/api/records",
-  "count": 26,
+  "count": 28,
   "items": [
     {
       "edition": 1,
@@ -370,6 +370,34 @@
       "imageSha256": "fcec4f4e7121c6f72a54041786ff08185d0885227aa21056d830d5bfae74364e",
       "itemPage": "https://scp261.org/item/verdant-crumbs",
       "recordUri": "https://scp261.org/api/records/26"
+    },
+    {
+      "edition": 27,
+      "itemId": "verdant-meal",
+      "name": "Verdant Meal #27",
+      "rarity": "Common",
+      "category": "meal",
+      "dispensedAt": "2026-11-23T21:29:52.842Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/27.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/27.jpg",
+      "imageBytes": 62135,
+      "imageSha256": "f5da5045518da056bcd0abfec8fd4e2acd0dc73dc1b8af49d825299d80a0191b",
+      "itemPage": "https://scp261.org/item/verdant-meal",
+      "recordUri": "https://scp261.org/api/records/27"
+    },
+    {
+      "edition": 28,
+      "itemId": "polar-twists",
+      "name": "Polar Twists #28",
+      "rarity": "Common",
+      "category": "candy",
+      "dispensedAt": "2026-11-24T08:59:05.803Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/28.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/28.jpg",
+      "imageBytes": 43504,
+      "imageSha256": "d9300cf1a04d44246d3b5314277a64f4a14c403dff895a6c26e1ab4b7c0a0530",
+      "itemPage": "https://scp261.org/item/polar-twists",
+      "recordUri": "https://scp261.org/api/records/28"
     }
   ]
 }
