@@ -5,7 +5,7 @@
     "external_link": "https://scp261.org"
   },
   "source": "https://scp261.org/api/records",
-  "count": 28,
+  "count": 29,
   "items": [
     {
       "edition": 1,
@@ -398,6 +398,20 @@
       "imageSha256": "d9300cf1a04d44246d3b5314277a64f4a14c403dff895a6c26e1ab4b7c0a0530",
       "itemPage": "https://scp261.org/item/polar-twists",
       "recordUri": "https://scp261.org/api/records/28"
+    },
+    {
+      "edition": 29,
+      "itemId": "skill-tokens",
+      "name": "Skill Tokens #29",
+      "rarity": "Common",
+      "category": "currency",
+      "dispensedAt": "2026-11-25T12:11:59.385Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/29.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/29.jpg",
+      "imageBytes": 108424,
+      "imageSha256": "2c4053082712a7b777504013c4c18f5c9d386bcfb957bf7af55ecbbff4a967f0",
+      "itemPage": "https://scp261.org/item/skill-tokens",
+      "recordUri": "https://scp261.org/api/records/29"
     }
   ]
 }

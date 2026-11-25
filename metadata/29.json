@@ -1,0 +1,59 @@
+{
+  "name": "Skill Tokens #29",
+  "description": "A collection of small, smooth tokens, each inscribed with an unknown emblem. When held, the tokens emit a faint warmth and briefly augment the holder's proficiency in a random basic skill. Additional investigation reveals no persistent effects or long-term harm to the user.\n\nEFFECT: Users experience a sudden ability to perform a random basic skill when in possession of one token. The effect dissipates after fifteen minutes, leaving no memory of the acquired skill.\nANOMALOUS PROPERTIES: Grants temporary proficiency in basic tasks, such as tying knots or simple arithmetic, for a duration of fifteen minutes upon tactile contact.\nTASTE: N/A\nPACKAGING: A small, circular metallic tin with intricate, abstract designs etched on its surface. The lid features complex symbols interlaced with Korean text that reads \"참여의 빛\" (Light of Participation).\n\nRESEARCHER NOTE: Surprisingly, they don't enhance speed-eating, which would explain my last lunch break. Potentially useful for D-class training exercises.\n\nDispensed by SCP-261 on 2026-11-25 — edition #29 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/29.jpg",
+  "external_url": "https://scp261.org/item/skill-tokens",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Category",
+      "value": "currency"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "harmless"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "Korean"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "anomalous-chemistry"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "currency"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "skill-grant"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 261,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 29,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1795608719,
+      "display_type": "date"
+    }
+  ]
+}
