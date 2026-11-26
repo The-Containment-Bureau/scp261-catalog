@@ -5,7 +5,7 @@
     "external_link": "https://scp261.org"
   },
   "source": "https://scp261.org/api/records",
-  "count": 29,
+  "count": 30,
   "items": [
     {
       "edition": 1,
@@ -412,6 +412,20 @@
       "imageSha256": "2c4053082712a7b777504013c4c18f5c9d386bcfb957bf7af55ecbbff4a967f0",
       "itemPage": "https://scp261.org/item/skill-tokens",
       "recordUri": "https://scp261.org/api/records/29"
+    },
+    {
+      "edition": 30,
+      "itemId": "lurker-rotary-phone",
+      "name": "Lurker Rotary Phone #30",
+      "rarity": "Legendary",
+      "category": "device",
+      "dispensedAt": "2026-11-26T14:32:07.855Z",
+      "metadata": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/metadata/30.json",
+      "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/30.jpg",
+      "imageBytes": 104177,
+      "imageSha256": "539c7f5e3b839263b8c905084133453e4284dbefba0c5a6954c3740508a5e4e5",
+      "itemPage": "https://scp261.org/item/lurker-rotary-phone",
+      "recordUri": "https://scp261.org/api/records/30"
     }
   ]
 }

@@ -79,8 +79,8 @@ with nothing newly dispensed produces no diff.
 
 ## Size, and when it becomes a problem
 
-29 item(s), 2.4 MB of images — an average of
-**83 KB per item**, committed to git history that
+30 item(s), 2.5 MB of images — an average of
+**84 KB per item**, committed to git history that
 cannot be pruned without a rewrite. At that weight:
 
 | items | repository size |
@@ -90,7 +90,7 @@ cannot be pruned without a rewrite. At that weight:
 
 GitHub recommends staying under 1 GB and starts warning above 5 GB, so at the current image
 weight this repository leaves the comfortable range somewhere around
-**12,560 items**. The fix is upstream, at
+**12,469 items**. The fix is upstream, at
 generation time: smaller images make both the site and this mirror lighter. It is deliberately
 *not* done here — the whole point of this copy is that its bytes are identical to what the
 site serves, verifiable by the SHA-256 above. Re-encoding here would break that.
@@ -128,3 +128,4 @@ site serves, verifiable by the SHA-256 above. Re-encoding here would break that.
 | 27 | [Verdant Meal #27](https://scp261.org/item/verdant-meal) | Common | meal | 2026-11-23 | [json](metadata/27.json) | `f5da5045518da056` |
 | 28 | [Polar Twists #28](https://scp261.org/item/polar-twists) | Common | candy | 2026-11-24 | [json](metadata/28.json) | `d9300cf1a04d4424` |
 | 29 | [Skill Tokens #29](https://scp261.org/item/skill-tokens) | Common | currency | 2026-11-25 | [json](metadata/29.json) | `2c4053082712a7b7` |
+| 30 | [Lurker Rotary Phone #30](https://scp261.org/item/lurker-rotary-phone) | Legendary | device | 2026-11-26 | [json](metadata/30.json) | `539c7f5e3b839263` |

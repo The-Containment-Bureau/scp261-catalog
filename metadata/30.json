@@ -1,0 +1,63 @@
+{
+  "name": "Lurker Rotary Phone #30",
+  "description": "A vintage rotary phone equipped with a reality-altering dial. Users report auditory hallucinations of voices and sounds from other dimensions when numbers are dialed, often inciting fear and paranoia. Prolonged exposure leads to increased disorientation and anxiety.\n\nEFFECT: When dialed, the phone connects to unknown dimensions, projecting disturbing voices and sounds that induce paranoia.\nANOMALOUS PROPERTIES: Activates interdimensional communications that produce hallucinatory and unsettling auditory phenomena.\nTASTE: N/A\nPACKAGING: A small, rectangular cardboard box with faded colors and retro-styled graphics featuring a rotary phone surrounded by cryptic symbols. The packaging reads \"Lurker Rotary Phone - Listen Closely\" and displays undecipherable glyphs.\n\nRESEARCHER NOTE: Clearly, calling long-distance has a whole new meaning here.\n\nDispensed by SCP-261 on 2026-11-26 — edition #30 of the permanent record.",
+  "image": "https://raw.githubusercontent.com/The-Containment-Bureau/scp261-catalog/main/images/30.jpg",
+  "external_url": "https://scp261.org/item/lurker-rotary-phone",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Category",
+      "value": "device"
+    },
+    {
+      "trait_type": "Danger Level",
+      "value": "harmful"
+    },
+    {
+      "trait_type": "Power State",
+      "value": "powered"
+    },
+    {
+      "trait_type": "Packaging Language",
+      "value": "Serbo-Croatian"
+    },
+    {
+      "trait_type": "Sentient",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "branded-parody"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "dimensional"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "psychotropic"
+    },
+    {
+      "trait_type": "Trait",
+      "value": "reality-bending"
+    },
+    {
+      "trait_type": "Price (JPY)",
+      "value": 261,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 30,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Dispensed",
+      "value": 1795703527,
+      "display_type": "date"
+    }
+  ]
+}
